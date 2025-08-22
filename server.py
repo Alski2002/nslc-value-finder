@@ -60,6 +60,17 @@ app.add_middleware(
 )
 
 app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
+# --- lightweight health + homepage routes (GET + HEAD) ---
+@app.api_route("/", methods=["GET", "HEAD"])
+def root():
+    if INDEX_HTML.exists():
+        return FileResponse(str(INDEX_HTML))
+    return {"ok": True}
+
+@app.api_route("/healthz", methods=["GET", "HEAD"])
+def healthz():
+    return {"ok": True}
+
 
 
 @app.get("/")
