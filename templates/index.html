@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>NSLC Value Finder</title>
+<link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+<div class="app">
+<header>
+<h1>
+  <span class="brand">
+    <span class="brand-ns">NS</span><span class="brand-lc">LC</span>
+  </span>
+  <span class="brand-rest"> Value Finder</span>
+</h1>
+<p>Find which items have the most alcohol per dollar.</p>
+</header>
+
+
+<section class="controls">
+<form id="scrape-form">
+<fieldset>
+<legend>Categories</legend>
+<label><input type="checkbox" name="category" value="Spirits" checked> Spirits</label>
+<label><input type="checkbox" name="category" value="Wine"> Wine</label>
+<label><input type="checkbox" name="category" value="Beer"> Beer</label>
+<label><input type="checkbox" name="category" value="Cider"> Cider</label>
+<label><input type="checkbox" name="category" value="Coolers"> Coolers</label>
+</fieldset>
+<label class="inline">
+Concurrency
+<input type="number" id="concurrency" min="1" max="12" value="5" />
+</label>
+<button type="submit" id="run-btn">Calculate</button>
+</form>
+<div id="status"></div>
+<!-- Progress bar (SSE) -->
+<div id="progress" class="progress hidden">
+<div class="bar"></div>
+<span class="label">Starting…</span>
+</div>
+</section>
+
+
+<section class="table-wrap">
+<table id="results">
+<thead>
+<tr>
+<th data-key="name">Name</th>
+<th data-key="category">Category</th>
+<th data-key="price_cad">Price ($)</th>
+<th data-key="abv_percent">ABV (%)</th>
+<th data-key="volume_ml">Volume (mL)</th>
+<th data-key="score" class="sorted desc">Score</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+</section>
+
+
+<footer>
+<button id="download-csv" disabled>Download CSV</button>
+</footer>
+</div>
+
+
+<script src="/static/app.js"></script>
+</body>
+</html>

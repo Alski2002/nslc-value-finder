@@ -1,0 +1,3557 @@
+[
+  {
+    "name": "Colt 45 Lager Can",
+    "price_cad": 5.63,
+    "abv_percent": 8.0,
+    "volume_ml": 710.0,
+    "score": 10.09,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1020397.aspx"
+  },
+  {
+    "name": "Faxe 10 Lager",
+    "price_cad": 4.93,
+    "abv_percent": 10.0,
+    "volume_ml": 473.0,
+    "score": 9.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1041508.aspx"
+  },
+  {
+    "name": "Bavaria 8.6 Strong Lager",
+    "price_cad": 4.92,
+    "abv_percent": 8.6,
+    "volume_ml": 500.0,
+    "score": 8.74,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001294.aspx"
+  },
+  {
+    "name": "Burnside Brewing Happy Place DIPA",
+    "price_cad": 5.93,
+    "abv_percent": 8.5,
+    "volume_ml": 568.0,
+    "score": 8.14,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Imperial%20IPA/1045400.aspx"
+  },
+  {
+    "name": "Busch Max Ice",
+    "price_cad": 4.93,
+    "abv_percent": 8.0,
+    "volume_ml": 473.0,
+    "score": 7.68,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1046351.aspx"
+  },
+  {
+    "name": "Holsten Maibock Can",
+    "price_cad": 4.95,
+    "abv_percent": 7.0,
+    "volume_ml": 500.0,
+    "score": 7.07,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Bock/1001304.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Deadeye DIPA",
+    "price_cad": 5.36,
+    "abv_percent": 8.0,
+    "volume_ml": 473.0,
+    "score": 7.06,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Imperial%20IPA/1046494.aspx"
+  },
+  {
+    "name": "Harbour Brewing Titanic DIPA",
+    "price_cad": 5.4,
+    "abv_percent": 8.0,
+    "volume_ml": 473.0,
+    "score": 7.01,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Imperial%20IPA/1047137.aspx"
+  },
+  {
+    "name": "Pabst Blue Ribbon 5.9%",
+    "price_cad": 4.0,
+    "abv_percent": 5.9,
+    "volume_ml": 473.0,
+    "score": 6.98,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1046729.aspx"
+  },
+  {
+    "name": "Good Robot Tropical Storm DIPA",
+    "price_cad": 5.44,
+    "abv_percent": 8.0,
+    "volume_ml": 473.0,
+    "score": 6.96,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1045148.aspx"
+  },
+  {
+    "name": "Garrison Juicy Double IPA",
+    "price_cad": 5.44,
+    "abv_percent": 8.0,
+    "volume_ml": 473.0,
+    "score": 6.96,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Other%20Ale/1025215.aspx"
+  },
+  {
+    "name": "Propeller Double IPA",
+    "price_cad": 5.59,
+    "abv_percent": 8.2,
+    "volume_ml": 473.0,
+    "score": 6.94,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1027354.aspx"
+  },
+  {
+    "name": "Boxing Rock Brewing Vicars Cross IPA",
+    "price_cad": 5.83,
+    "abv_percent": 8.5,
+    "volume_ml": 473.0,
+    "score": 6.9,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1036733.aspx"
+  },
+  {
+    "name": "2 Crows Space Words Triple IPA",
+    "price_cad": 6.92,
+    "abv_percent": 10.1,
+    "volume_ml": 473.0,
+    "score": 6.9,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Imperial%20IPA/1040327.aspx"
+  },
+  {
+    "name": "Nine Locks Frig Off East Coast IPA",
+    "price_cad": 4.9,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.76,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1031926.aspx"
+  },
+  {
+    "name": "Holsten Festbock",
+    "price_cad": 4.95,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.69,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Bock/1042865.aspx"
+  },
+  {
+    "name": "Innis & Gunn The Original",
+    "price_cad": 4.95,
+    "abv_percent": 6.6,
+    "volume_ml": 500.0,
+    "score": 6.67,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Other%20Ale/1018313.aspx"
+  },
+  {
+    "name": "Nine Locks The IPA",
+    "price_cad": 4.9,
+    "abv_percent": 6.9,
+    "volume_ml": 473.0,
+    "score": 6.66,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1022867.aspx"
+  },
+  {
+    "name": "Propeller Revolution Imperial Stout",
+    "price_cad": 5.7,
+    "abv_percent": 8.0,
+    "volume_ml": 473.0,
+    "score": 6.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/Imperial_Stout/1029900.aspx"
+  },
+  {
+    "name": "North Brewing Waves IPA",
+    "price_cad": 4.99,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1047159.aspx"
+  },
+  {
+    "name": "Nine Locks Fathom Double IPA",
+    "price_cad": 5.75,
+    "abv_percent": 8.0,
+    "volume_ml": 473.0,
+    "score": 6.58,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Other%20Ale/1029911.aspx"
+  },
+  {
+    "name": "Schoolhouse Fuzzy Peach DIPA",
+    "price_cad": 5.75,
+    "abv_percent": 8.0,
+    "volume_ml": 473.0,
+    "score": 6.58,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Imperial%20IPA/1046473.aspx"
+  },
+  {
+    "name": "Breton Brewing Crazy Angus DIPA",
+    "price_cad": 5.4,
+    "abv_percent": 7.5,
+    "volume_ml": 473.0,
+    "score": 6.57,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Other%20Ale/1035375.aspx"
+  },
+  {
+    "name": "Holsten Maibock",
+    "price_cad": 5.14,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Bock/1042866.aspx"
+  },
+  {
+    "name": "Garrison All Lit Up Festive Strong Ale",
+    "price_cad": 5.24,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.32,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Specialty%20Ale/1027001.aspx"
+  },
+  {
+    "name": "Big Spruce Cerberus Organic IPA",
+    "price_cad": 5.64,
+    "abv_percent": 7.5,
+    "volume_ml": 473.0,
+    "score": 6.29,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046401.aspx"
+  },
+  {
+    "name": "Annapolis Brewing Box Cutter IPA",
+    "price_cad": 5.2,
+    "abv_percent": 6.9,
+    "volume_ml": 473.0,
+    "score": 6.28,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1043291.aspx"
+  },
+  {
+    "name": "North Brewing Pleasant Disposition IPA",
+    "price_cad": 4.99,
+    "abv_percent": 6.6,
+    "volume_ml": 473.0,
+    "score": 6.26,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1034939.aspx"
+  },
+  {
+    "name": "2 Crows Pollyanna Northeast IPA",
+    "price_cad": 5.54,
+    "abv_percent": 7.3,
+    "volume_ml": 473.0,
+    "score": 6.23,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1025068.aspx"
+  },
+  {
+    "name": "Boxing Rock Fusion Cold IPA",
+    "price_cad": 4.95,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 6.21,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046488.aspx"
+  },
+  {
+    "name": "Annapolis Brewing Railway Rye IPA",
+    "price_cad": 5.2,
+    "abv_percent": 6.7,
+    "volume_ml": 473.0,
+    "score": 6.09,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1034956.aspx"
+  },
+  {
+    "name": "Burnside Brewing Sea Glass IPA",
+    "price_cad": 5.06,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 6.08,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1035653.aspx"
+  },
+  {
+    "name": "Boxing Rock IPA",
+    "price_cad": 5.14,
+    "abv_percent": 6.6,
+    "volume_ml": 473.0,
+    "score": 6.07,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1043310.aspx"
+  },
+  {
+    "name": "Smokehouse Famous Amos IPA",
+    "price_cad": 4.96,
+    "abv_percent": 6.3,
+    "volume_ml": 473.0,
+    "score": 6.01,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046463.aspx"
+  },
+  {
+    "name": "Garrison Hoppy Boy IPA",
+    "price_cad": 5.15,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.97,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1037925.aspx"
+  },
+  {
+    "name": "Breton Brewing Black Angus IPA",
+    "price_cad": 4.91,
+    "abv_percent": 6.2,
+    "volume_ml": 473.0,
+    "score": 5.97,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1023288.aspx"
+  },
+  {
+    "name": "Propeller IPA",
+    "price_cad": 5.15,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.97,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1024462.aspx"
+  },
+  {
+    "name": "Great Roads Naughty or Nice Double Chocolate Stout",
+    "price_cad": 5.71,
+    "abv_percent": 7.2,
+    "volume_ml": 473.0,
+    "score": 5.96,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/Specialty%20Stout/1039814.aspx"
+  },
+  {
+    "name": "Lunn's Mill Purple Grain IPA",
+    "price_cad": 5.44,
+    "abv_percent": 6.8,
+    "volume_ml": 473.0,
+    "score": 5.91,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1032125.aspx"
+  },
+  {
+    "name": "Brig & Barq Big IPA",
+    "price_cad": 5.44,
+    "abv_percent": 6.8,
+    "volume_ml": 473.0,
+    "score": 5.91,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046629.aspx"
+  },
+  {
+    "name": "Big Spruce Tim's IPA",
+    "price_cad": 5.5,
+    "abv_percent": 6.8,
+    "volume_ml": 473.0,
+    "score": 5.85,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1025070.aspx"
+  },
+  {
+    "name": "Czechvar Pilsner",
+    "price_cad": 4.28,
+    "abv_percent": 5.0,
+    "volume_ml": 500.0,
+    "score": 5.84,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1012868.aspx"
+  },
+  {
+    "name": "Moosehead Small Batch East Coast IPA",
+    "price_cad": 4.95,
+    "abv_percent": 6.1,
+    "volume_ml": 473.0,
+    "score": 5.83,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1034084.aspx"
+  },
+  {
+    "name": "Dab Original Dortmund Lager",
+    "price_cad": 4.31,
+    "abv_percent": 5.0,
+    "volume_ml": 500.0,
+    "score": 5.8,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000237.aspx"
+  },
+  {
+    "name": "Trailway Hu Jon Hops IPA",
+    "price_cad": 5.3,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.8,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1025266.aspx"
+  },
+  {
+    "name": "Breton Brewing Hazy Angus IPA",
+    "price_cad": 5.3,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.8,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046257.aspx"
+  },
+  {
+    "name": "Sober Island Wavebreaker IPA",
+    "price_cad": 5.15,
+    "abv_percent": 6.3,
+    "volume_ml": 473.0,
+    "score": 5.79,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1034399.aspx"
+  },
+  {
+    "name": "Garrison Lil Juicy IPA",
+    "price_cad": 5.1,
+    "abv_percent": 6.2,
+    "volume_ml": 473.0,
+    "score": 5.75,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1033259.aspx"
+  },
+  {
+    "name": "Toller Gold Lager",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 568.0,
+    "score": 5.74,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1043304.aspx"
+  },
+  {
+    "name": "Heritage Freezing Spray IPA",
+    "price_cad": 5.36,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.74,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1027724.aspx"
+  },
+  {
+    "name": "Old Milwaukee Lager Can",
+    "price_cad": 6.09,
+    "abv_percent": 4.9,
+    "volume_ml": 710.0,
+    "score": 5.71,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000448.aspx"
+  },
+  {
+    "name": "Smokehouse Beerwick Brown Ale",
+    "price_cad": 4.31,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 5.71,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Other%20Ale/1042163.aspx"
+  },
+  {
+    "name": "New Scotland Rampant Lion NEIPA",
+    "price_cad": 5.39,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.7,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Specialty%20Ale/1039818.aspx"
+  },
+  {
+    "name": "Boxing Rock Puck Off Blonde Ale",
+    "price_cad": 4.16,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.69,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1034734.aspx"
+  },
+  {
+    "name": "Saltbox Essential IPA",
+    "price_cad": 5.24,
+    "abv_percent": 6.3,
+    "volume_ml": 473.0,
+    "score": 5.69,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1035657.aspx"
+  },
+  {
+    "name": "Propeller Galaxy IPA",
+    "price_cad": 5.4,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.69,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1038123.aspx"
+  },
+  {
+    "name": "Tuborg Gold Label Lager",
+    "price_cad": 4.41,
+    "abv_percent": 5.0,
+    "volume_ml": 500.0,
+    "score": 5.67,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000386.aspx"
+  },
+  {
+    "name": "Big Spruce Tag! You're It! IPA",
+    "price_cad": 5.44,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.65,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1030965.aspx"
+  },
+  {
+    "name": "Church Brewing 902 IPA",
+    "price_cad": 5.44,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.65,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1041247.aspx"
+  },
+  {
+    "name": "Truro Brewing Cobequid Bay IPA",
+    "price_cad": 5.28,
+    "abv_percent": 6.3,
+    "volume_ml": 473.0,
+    "score": 5.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1041956.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Deception Bay IPA",
+    "price_cad": 5.22,
+    "abv_percent": 6.2,
+    "volume_ml": 473.0,
+    "score": 5.62,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1022896.aspx"
+  },
+  {
+    "name": "Breton Brewing Grapefruit IPA",
+    "price_cad": 5.06,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 5.61,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1040804.aspx"
+  },
+  {
+    "name": "Great Roads 7 Day IPA",
+    "price_cad": 5.48,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 5.61,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1035662.aspx"
+  },
+  {
+    "name": "Tuborg Gold Label Lager",
+    "price_cad": 4.65,
+    "abv_percent": 5.5,
+    "volume_ml": 473.0,
+    "score": 5.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1041997.aspx"
+  },
+  {
+    "name": "Old Speckled Hen Ale",
+    "price_cad": 4.67,
+    "abv_percent": 5.2,
+    "volume_ml": 500.0,
+    "score": 5.57,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001334.aspx"
+  },
+  {
+    "name": "Good Robot Creature Feature IPA",
+    "price_cad": 5.44,
+    "abv_percent": 6.4,
+    "volume_ml": 473.0,
+    "score": 5.56,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1031925.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Butcher Block Red Ale",
+    "price_cad": 5.1,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 5.56,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1027261.aspx"
+  },
+  {
+    "name": "Smokehouse Cottage Cream Ale",
+    "price_cad": 4.26,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Hybrid/american_cream_ale/1046466.aspx"
+  },
+  {
+    "name": "New Scotland Kilted IPA",
+    "price_cad": 5.39,
+    "abv_percent": 6.3,
+    "volume_ml": 473.0,
+    "score": 5.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1035058.aspx"
+  },
+  {
+    "name": "North Brewing Malternate Reality IPA",
+    "price_cad": 5.44,
+    "abv_percent": 6.3,
+    "volume_ml": 473.0,
+    "score": 5.48,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1026906.aspx"
+  },
+  {
+    "name": "Hell Bay IPA",
+    "price_cad": 5.48,
+    "abv_percent": 6.3,
+    "volume_ml": 473.0,
+    "score": 5.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1033270.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Intertidal Mosaic IPA",
+    "price_cad": 5.22,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 5.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1038573.aspx"
+  },
+  {
+    "name": "Half Cocked Brewing Perfectly Unclear Hazy IPA",
+    "price_cad": 5.44,
+    "abv_percent": 6.2,
+    "volume_ml": 473.0,
+    "score": 5.39,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/1044003.aspx"
+  },
+  {
+    "name": "Darty Brewing IPA",
+    "price_cad": 5.44,
+    "abv_percent": 6.2,
+    "volume_ml": 473.0,
+    "score": 5.39,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046397.aspx"
+  },
+  {
+    "name": "Two Islands Brewing Parrsboro Porter",
+    "price_cad": 5.12,
+    "abv_percent": 5.8,
+    "volume_ml": 473.0,
+    "score": 5.36,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/other_stout_porter/1043164.aspx"
+  },
+  {
+    "name": "Propeller Slabtown IPA",
+    "price_cad": 5.3,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 5.35,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1045673.aspx"
+  },
+  {
+    "name": "Propeller Piña Colada IPA",
+    "price_cad": 5.3,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 5.35,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1047126.aspx"
+  },
+  {
+    "name": "Tusket Falls Next Phase Hazy IPA",
+    "price_cad": 5.7,
+    "abv_percent": 6.4,
+    "volume_ml": 473.0,
+    "score": 5.31,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1039922.aspx"
+  },
+  {
+    "name": "Nine Locks White IPA",
+    "price_cad": 5.4,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 5.26,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046435.aspx"
+  },
+  {
+    "name": "Tusketfalls Blur IPA",
+    "price_cad": 5.7,
+    "abv_percent": 6.3,
+    "volume_ml": 473.0,
+    "score": 5.23,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046477.aspx"
+  },
+  {
+    "name": "Roof Hound Foolishly Hoptimistic IPA",
+    "price_cad": 5.75,
+    "abv_percent": 6.0,
+    "volume_ml": 500.0,
+    "score": 5.22,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1038582.aspx"
+  },
+  {
+    "name": "Grolsch Premium Pilsner",
+    "price_cad": 4.53,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.22,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1001217.aspx"
+  },
+  {
+    "name": "Peroni Nastro Azzurro Lager",
+    "price_cad": 4.9,
+    "abv_percent": 5.1,
+    "volume_ml": 500.0,
+    "score": 5.2,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1011376.aspx"
+  },
+  {
+    "name": "Lunn's Mill First Cut IPA",
+    "price_cad": 5.3,
+    "abv_percent": 5.8,
+    "volume_ml": 473.0,
+    "score": 5.18,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1033252.aspx"
+  },
+  {
+    "name": "Stillwell Brewing Pale Ale",
+    "price_cad": 4.95,
+    "abv_percent": 5.4,
+    "volume_ml": 473.0,
+    "score": 5.16,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1043302.aspx"
+  },
+  {
+    "name": "Erdinger Weissbier Wheat Ale",
+    "price_cad": 5.15,
+    "abv_percent": 5.3,
+    "volume_ml": 500.0,
+    "score": 5.15,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Wheat%20Ale/1028153.aspx"
+  },
+  {
+    "name": "Schoolhouse Vice Principal IPA",
+    "price_cad": 5.15,
+    "abv_percent": 5.6,
+    "volume_ml": 473.0,
+    "score": 5.14,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1035654.aspx"
+  },
+  {
+    "name": "2 Crows Sunny Destination IPA",
+    "price_cad": 5.64,
+    "abv_percent": 6.1,
+    "volume_ml": 473.0,
+    "score": 5.12,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046371.aspx"
+  },
+  {
+    "name": "Alexander Keith's Thunder Brew",
+    "price_cad": 5.1,
+    "abv_percent": 5.5,
+    "volume_ml": 473.0,
+    "score": 5.1,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1044991.aspx"
+  },
+  {
+    "name": "Moosehead Small Batch Helles Bock",
+    "price_cad": 4.83,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 5.09,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Bock/1043035.aspx"
+  },
+  {
+    "name": "Harp Lager Can",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 500.0,
+    "score": 5.05,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1014553.aspx"
+  },
+  {
+    "name": "Coldstream Nova Scotia Lager",
+    "price_cad": 4.71,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1046249.aspx"
+  },
+  {
+    "name": "Alexander Keith's India Pale Ale",
+    "price_cad": 4.71,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1007628.aspx"
+  },
+  {
+    "name": "Budweiser Lager",
+    "price_cad": 4.71,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1007631.aspx"
+  },
+  {
+    "name": "Labatt Blue",
+    "price_cad": 4.71,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1007630.aspx"
+  },
+  {
+    "name": "Breton Brewing Sons Of Hector Brown Ale",
+    "price_cad": 4.71,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Other%20Ale/1024734.aspx"
+  },
+  {
+    "name": "Oland Export Ale",
+    "price_cad": 4.71,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1019786.aspx"
+  },
+  {
+    "name": "Sleeman Clear",
+    "price_cad": 4.71,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1024313.aspx"
+  },
+  {
+    "name": "Molson Canadian Lager",
+    "price_cad": 4.71,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1007623.aspx"
+  },
+  {
+    "name": "Pumphouse Crafty Radler Orange & Mango",
+    "price_cad": 4.45,
+    "abv_percent": 4.7,
+    "volume_ml": 473.0,
+    "score": 5.0,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1046038.aspx"
+  },
+  {
+    "name": "Heritage Brewing Wheat King Pineapple Ale Can",
+    "price_cad": 5.2,
+    "abv_percent": 5.5,
+    "volume_ml": 473.0,
+    "score": 5.0,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Wheat%20Ale/1036493.aspx"
+  },
+  {
+    "name": "Pump House Crafty Radler",
+    "price_cad": 4.45,
+    "abv_percent": 4.7,
+    "volume_ml": 473.0,
+    "score": 5.0,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1023785.aspx"
+  },
+  {
+    "name": "Pumphouse Crafty Radler Peach & Blood Orange",
+    "price_cad": 4.45,
+    "abv_percent": 4.7,
+    "volume_ml": 473.0,
+    "score": 5.0,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1033806.aspx"
+  },
+  {
+    "name": "Garrison Irish Red Ale",
+    "price_cad": 4.75,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.98,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1033013.aspx"
+  },
+  {
+    "name": "Garrison Tall Ship Pale Ale",
+    "price_cad": 4.75,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.98,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1025089.aspx"
+  },
+  {
+    "name": "Boxing Rock Patricius Irish Stout",
+    "price_cad": 4.75,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.98,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/dry_irish_Stout/1037004.aspx"
+  },
+  {
+    "name": "Blue Moon Wheat Ale",
+    "price_cad": 5.15,
+    "abv_percent": 5.4,
+    "volume_ml": 473.0,
+    "score": 4.96,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Belgian/other_belgian/1022731.aspx"
+  },
+  {
+    "name": "Lunn's Mill Charming Molly Blonde Ale",
+    "price_cad": 5.15,
+    "abv_percent": 5.4,
+    "volume_ml": 473.0,
+    "score": 4.96,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1046444.aspx"
+  },
+  {
+    "name": "Good Robot Diablo Mexican Lager",
+    "price_cad": 5.34,
+    "abv_percent": 5.6,
+    "volume_ml": 473.0,
+    "score": 4.96,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/other_flavoured/1030312.aspx"
+  },
+  {
+    "name": "Sea Level Rojo Mojo",
+    "price_cad": 4.98,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 4.94,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1035973.aspx"
+  },
+  {
+    "name": "Heritage Kilometer 0 Cream Ale",
+    "price_cad": 5.3,
+    "abv_percent": 5.5,
+    "volume_ml": 473.0,
+    "score": 4.91,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Wheat%20Ale/1046437.aspx"
+  },
+  {
+    "name": "Schoolhouse Summer Day IPA",
+    "price_cad": 5.15,
+    "abv_percent": 5.3,
+    "volume_ml": 473.0,
+    "score": 4.87,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1035934.aspx"
+  },
+  {
+    "name": "Good Robot Thembot Sour",
+    "price_cad": 5.34,
+    "abv_percent": 5.5,
+    "volume_ml": 473.0,
+    "score": 4.87,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1038542.aspx"
+  },
+  {
+    "name": "Sapporo Premium Lager Can",
+    "price_cad": 5.15,
+    "abv_percent": 5.0,
+    "volume_ml": 500.0,
+    "score": 4.85,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1012936.aspx"
+  },
+  {
+    "name": "Tanner Co Brewing Pale Ale",
+    "price_cad": 5.36,
+    "abv_percent": 5.5,
+    "volume_ml": 473.0,
+    "score": 4.85,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1034825.aspx"
+  },
+  {
+    "name": "2 Crows Sal Italian Pilsner",
+    "price_cad": 4.99,
+    "abv_percent": 5.1,
+    "volume_ml": 473.0,
+    "score": 4.83,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1048005.aspx"
+  },
+  {
+    "name": "Propeller NZ Pilsner",
+    "price_cad": 5.1,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 4.82,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1045925.aspx"
+  },
+  {
+    "name": "Rare Bird Surfer Scoter IPA",
+    "price_cad": 4.91,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.82,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1036933.aspx"
+  },
+  {
+    "name": "Breton Brewing Red Coat Irish Red Ale",
+    "price_cad": 4.91,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.82,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1023286.aspx"
+  },
+  {
+    "name": "Heritage Rusty Truck Red Ale",
+    "price_cad": 5.3,
+    "abv_percent": 5.4,
+    "volume_ml": 473.0,
+    "score": 4.82,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1034630.aspx"
+  },
+  {
+    "name": "Nine Locks Harvest Pumpkin Ale",
+    "price_cad": 5.1,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 4.82,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/Pumpkin/1026422.aspx"
+  },
+  {
+    "name": "Saltbox Biff's Pilsner",
+    "price_cad": 5.1,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 4.82,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1044058.aspx"
+  },
+  {
+    "name": "North Brewing Dishoom Dishoom IPA",
+    "price_cad": 4.91,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.82,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1045653.aspx"
+  },
+  {
+    "name": "Rickard's Red Ale Can",
+    "price_cad": 5.14,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 4.79,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1001935.aspx"
+  },
+  {
+    "name": "Garrison Georgia Peach",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/Fruit/1031732.aspx"
+  },
+  {
+    "name": "Garrison Hawaiian Crush Flavoured Beer",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/Fruit/1046398.aspx"
+  },
+  {
+    "name": "Church Brewing Blonde Ale",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1038495.aspx"
+  },
+  {
+    "name": "Moosehead Lager",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1021674.aspx"
+  },
+  {
+    "name": "North Brewing Cozy Oatmeal Stout",
+    "price_cad": 4.91,
+    "abv_percent": 4.95,
+    "volume_ml": 473.0,
+    "score": 4.77,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/Specialty%20Stout/1045421.aspx"
+  },
+  {
+    "name": "Stillwell Brewing Stilly Pils",
+    "price_cad": 5.0,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.73,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1040587.aspx"
+  },
+  {
+    "name": "2 Crows Adanac West Coast Pale Ale",
+    "price_cad": 5.2,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 4.73,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1047139.aspx"
+  },
+  {
+    "name": "Two Islands Sailors Delight Irish Red",
+    "price_cad": 5.08,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.66,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1035466.aspx"
+  },
+  {
+    "name": "Garrison Pumpkin Ale",
+    "price_cad": 5.1,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Other%20Ale/1039104.aspx"
+  },
+  {
+    "name": "Propeller Pumpkin Ale",
+    "price_cad": 5.1,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/Pumpkin/1029601.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Hippie Dippie Pale Ale",
+    "price_cad": 5.1,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1025139.aspx"
+  },
+  {
+    "name": "Nine Locks Dirty Blonde",
+    "price_cad": 5.1,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1031907.aspx"
+  },
+  {
+    "name": "Garrison Mango & Dragonfruit Sour",
+    "price_cad": 5.1,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1040758.aspx"
+  },
+  {
+    "name": "Propeller Pilsener",
+    "price_cad": 4.91,
+    "abv_percent": 4.8,
+    "volume_ml": 473.0,
+    "score": 4.62,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1026188.aspx"
+  },
+  {
+    "name": "Toller Lite Lager",
+    "price_cad": 4.95,
+    "abv_percent": 4.0,
+    "volume_ml": 568.0,
+    "score": 4.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1043305.aspx"
+  },
+  {
+    "name": "Coors Original Lager",
+    "price_cad": 5.15,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1018101.aspx"
+  },
+  {
+    "name": "Black Horse Lager",
+    "price_cad": 5.15,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Amber%20Lager/1037977.aspx"
+  },
+  {
+    "name": "Stillwell Brewing Cream Ale",
+    "price_cad": 4.95,
+    "abv_percent": 4.8,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Hybrid/american_cream_ale/1046486.aspx"
+  },
+  {
+    "name": "Moosehead Small Batch Irish Red Ale",
+    "price_cad": 4.95,
+    "abv_percent": 4.8,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1032010.aspx"
+  },
+  {
+    "name": "Rare Bird Stilt Walker Pilsner",
+    "price_cad": 5.15,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1045477.aspx"
+  },
+  {
+    "name": "Rare Bird Party Dove Blonde",
+    "price_cad": 5.15,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1039911.aspx"
+  },
+  {
+    "name": "Garrison Queer Berry Brew Ale",
+    "price_cad": 5.18,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.57,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Specialty%20Ale/1047231.aspx"
+  },
+  {
+    "name": "Pilsner Urquell Lager Can",
+    "price_cad": 4.83,
+    "abv_percent": 4.4,
+    "volume_ml": 500.0,
+    "score": 4.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1000445.aspx"
+  },
+  {
+    "name": "Nine Locks Wiener Logger",
+    "price_cad": 5.4,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 4.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1042153.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Amber Lager",
+    "price_cad": 5.1,
+    "abv_percent": 4.9,
+    "volume_ml": 473.0,
+    "score": 4.54,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Amber%20Lager/1047160.aspx"
+  },
+  {
+    "name": "Tusket Falls Something To Say Session IPA",
+    "price_cad": 4.79,
+    "abv_percent": 4.6,
+    "volume_ml": 473.0,
+    "score": 4.54,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1040962.aspx"
+  },
+  {
+    "name": "Stella Artois Lager",
+    "price_cad": 5.23,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.52,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1034407.aspx"
+  },
+  {
+    "name": "Big Spruce Cereal Killer Oatmeal Stout",
+    "price_cad": 5.44,
+    "abv_percent": 5.2,
+    "volume_ml": 473.0,
+    "score": 4.52,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/Specialty%20Stout/1026962.aspx"
+  },
+  {
+    "name": "Church Brewing Illuminate Pale Ale",
+    "price_cad": 5.24,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.51,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1034098.aspx"
+  },
+  {
+    "name": "Garrison PB&J",
+    "price_cad": 4.95,
+    "abv_percent": 4.7,
+    "volume_ml": 473.0,
+    "score": 4.49,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Specialty%20Ale/1045961.aspx"
+  },
+  {
+    "name": "2 Crows Jamboree Strawberry Guava Sour",
+    "price_cad": 5.08,
+    "abv_percent": 4.8,
+    "volume_ml": 473.0,
+    "score": 4.47,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1031383.aspx"
+  },
+  {
+    "name": "Nine Locks Extra Special Bitter",
+    "price_cad": 5.3,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.46,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Specialty%20Ale/1022866.aspx"
+  },
+  {
+    "name": "Annapolis Brewing Fenwick's Ale",
+    "price_cad": 5.2,
+    "abv_percent": 4.9,
+    "volume_ml": 473.0,
+    "score": 4.46,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1046474.aspx"
+  },
+  {
+    "name": "Church Brewing -1 Under Lager",
+    "price_cad": 5.2,
+    "abv_percent": 4.9,
+    "volume_ml": 473.0,
+    "score": 4.46,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1046492.aspx"
+  },
+  {
+    "name": "Heineken Lager",
+    "price_cad": 5.63,
+    "abv_percent": 5.0,
+    "volume_ml": 500.0,
+    "score": 4.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000612.aspx"
+  },
+  {
+    "name": "Good Robot Together We Brew English Bitter",
+    "price_cad": 5.34,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.43,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1046220.aspx"
+  },
+  {
+    "name": "Breton Brewing Tiny Angus Pale Ale",
+    "price_cad": 4.8,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.43,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1042459.aspx"
+  },
+  {
+    "name": "Nine Locks O'Hearn's Irish Red Ale",
+    "price_cad": 5.4,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.38,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1046646.aspx"
+  },
+  {
+    "name": "Nine Locks Tangerine Blonde Ale",
+    "price_cad": 5.4,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.38,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1046427.aspx"
+  },
+  {
+    "name": "Nine Locks Watermelon Blonde Can",
+    "price_cad": 5.4,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.38,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1025133.aspx"
+  },
+  {
+    "name": "Nine Locks Right Some Red Ale",
+    "price_cad": 5.4,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.38,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1035334.aspx"
+  },
+  {
+    "name": "Nine Locks Vanilla Porter",
+    "price_cad": 5.4,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.38,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/other_stout_porter/1042503.aspx"
+  },
+  {
+    "name": "Half Cocked Good Stuff Fruited Sour Ale",
+    "price_cad": 5.44,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.35,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1046472.aspx"
+  },
+  {
+    "name": "Gahan Blueberry Ale",
+    "price_cad": 4.91,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.34,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/other_flavoured/1020574.aspx"
+  },
+  {
+    "name": "North Brewing Brunello Session IPA",
+    "price_cad": 4.91,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.34,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1043598.aspx"
+  },
+  {
+    "name": "Hell Bay Dark Cream Ale",
+    "price_cad": 5.5,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Hybrid/american_cream_ale/1034686.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Hierlihy Irish Stout",
+    "price_cad": 4.95,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/dry_irish_Stout/1045645.aspx"
+  },
+  {
+    "name": "Hell Bay Privateer Pilsner",
+    "price_cad": 5.5,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1046447.aspx"
+  },
+  {
+    "name": "Great Roads Blueberry Wheat Ale",
+    "price_cad": 4.96,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.29,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/Fruit/1046449.aspx"
+  },
+  {
+    "name": "Boxing Rock Best English Pub Ale",
+    "price_cad": 4.75,
+    "abv_percent": 4.3,
+    "volume_ml": 473.0,
+    "score": 4.28,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1045132.aspx"
+  },
+  {
+    "name": "Good Robot Pilsner",
+    "price_cad": 5.34,
+    "abv_percent": 4.8,
+    "volume_ml": 473.0,
+    "score": 4.25,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pilsner/1045147.aspx"
+  },
+  {
+    "name": "Lunn's Mill Girl, Hold my Earrings Sour Ale",
+    "price_cad": 4.8,
+    "abv_percent": 4.3,
+    "volume_ml": 473.0,
+    "score": 4.24,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1046446.aspx"
+  },
+  {
+    "name": "North Brewing Sunny Days Cerveza",
+    "price_cad": 4.91,
+    "abv_percent": 4.4,
+    "volume_ml": 473.0,
+    "score": 4.24,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1046475.aspx"
+  },
+  {
+    "name": "Madri Excepcional Lager",
+    "price_cad": 5.15,
+    "abv_percent": 4.6,
+    "volume_ml": 473.0,
+    "score": 4.22,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1045644.aspx"
+  },
+  {
+    "name": "Rolling Rock Extra Pale Lager",
+    "price_cad": 5.05,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.21,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1014464.aspx"
+  },
+  {
+    "name": "Nine Locks Pesh Fuzé Sour Ale",
+    "price_cad": 5.64,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.19,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1046432.aspx"
+  },
+  {
+    "name": "Saltbox Dynamite Trail Hefeweizen",
+    "price_cad": 5.1,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.17,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Wheat%20Ale/1043880.aspx"
+  },
+  {
+    "name": "Corona Extra Lager",
+    "price_cad": 5.23,
+    "abv_percent": 4.6,
+    "volume_ml": 473.0,
+    "score": 4.16,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1013112.aspx"
+  },
+  {
+    "name": "Bellwoods Jelly King",
+    "price_cad": 6.43,
+    "abv_percent": 5.6,
+    "volume_ml": 473.0,
+    "score": 4.12,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1038203.aspx"
+  },
+  {
+    "name": "Annapolis Brewing YOLO Lime Light Lager",
+    "price_cad": 5.2,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.09,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1047138.aspx"
+  },
+  {
+    "name": "Church Brewing Summer Dreamin' Peach Shandy",
+    "price_cad": 5.2,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.09,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1046493.aspx"
+  },
+  {
+    "name": "Modelo Especial",
+    "price_cad": 5.23,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.07,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1046357.aspx"
+  },
+  {
+    "name": "2 Crows AC Light Lager",
+    "price_cad": 4.71,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 4.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1046497.aspx"
+  },
+  {
+    "name": "Bud Light Lager",
+    "price_cad": 4.71,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 4.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1007629.aspx"
+  },
+  {
+    "name": "Coors Light Lager",
+    "price_cad": 4.71,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 4.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1001944.aspx"
+  },
+  {
+    "name": "Heritage Lager D'la Mer",
+    "price_cad": 5.3,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Amber%20Lager/1046436.aspx"
+  },
+  {
+    "name": "Breton Brewing Light Lager",
+    "price_cad": 4.71,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 4.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1046258.aspx"
+  },
+  {
+    "name": "Bay of Fundy Blonde Ale",
+    "price_cad": 4.95,
+    "abv_percent": 4.2,
+    "volume_ml": 473.0,
+    "score": 4.01,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1039505.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Jitney Dry Hopped Sour",
+    "price_cad": 5.31,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.01,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1026964.aspx"
+  },
+  {
+    "name": "Church Brewing Saltwater Joys Gose",
+    "price_cad": 5.2,
+    "abv_percent": 4.4,
+    "volume_ml": 473.0,
+    "score": 4.0,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Wheat%20Ale/1036532.aspx"
+  },
+  {
+    "name": "Saltbox Old Foundry Stout",
+    "price_cad": 5.1,
+    "abv_percent": 4.3,
+    "volume_ml": 473.0,
+    "score": 3.99,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/other_stout_porter/1045424.aspx"
+  },
+  {
+    "name": "2 Crows Classic Maritime Dry Stout",
+    "price_cad": 4.95,
+    "abv_percent": 4.1,
+    "volume_ml": 473.0,
+    "score": 3.92,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/dry_irish_Stout/1039666.aspx"
+  },
+  {
+    "name": "Saltbox Dory Racer Neipa",
+    "price_cad": 5.24,
+    "abv_percent": 4.3,
+    "volume_ml": 473.0,
+    "score": 3.88,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1031368.aspx"
+  },
+  {
+    "name": "Big Spruce Camp Spruce Light Lagers",
+    "price_cad": 4.91,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.85,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1043292.aspx"
+  },
+  {
+    "name": "Big Spruce Oh, Chute! Organic Light Ale",
+    "price_cad": 4.91,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.85,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1046403.aspx"
+  },
+  {
+    "name": "Breton Brewing Irish Stout",
+    "price_cad": 4.91,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.85,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/dry_irish_Stout/1042461.aspx"
+  },
+  {
+    "name": "Moosehead Radler",
+    "price_cad": 4.95,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.82,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1027055.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Sunrise Trail Session Ale",
+    "price_cad": 5.1,
+    "abv_percent": 4.1,
+    "volume_ml": 473.0,
+    "score": 3.8,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1026073.aspx"
+  },
+  {
+    "name": "Sea Level Summer Crush Blonde Ale",
+    "price_cad": 5.0,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.78,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1046476.aspx"
+  },
+  {
+    "name": "Big Spruce Conniption Fit Ale",
+    "price_cad": 5.0,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.78,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1032526.aspx"
+  },
+  {
+    "name": "Miller Lite",
+    "price_cad": 5.15,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.67,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1020556.aspx"
+  },
+  {
+    "name": "Rare Bird Fohawk New England Session Ale Can",
+    "price_cad": 5.15,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.67,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Specialty%20Ale/1038543.aspx"
+  },
+  {
+    "name": "Michelob Ultra Lager",
+    "price_cad": 5.15,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.67,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1017346.aspx"
+  },
+  {
+    "name": "Propeller Shandy",
+    "price_cad": 5.15,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.67,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1046450.aspx"
+  },
+  {
+    "name": "Good Robot Pineapple Lime Radler",
+    "price_cad": 5.2,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1043863.aspx"
+  },
+  {
+    "name": "Church Summer Lovin' Lemon Shandy",
+    "price_cad": 5.2,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1046985.aspx"
+  },
+  {
+    "name": "Candid Brewing Glory Days Session IPA",
+    "price_cad": 5.24,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.61,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1038537.aspx"
+  },
+  {
+    "name": "Heineken Silver",
+    "price_cad": 5.63,
+    "abv_percent": 4.0,
+    "volume_ml": 500.0,
+    "score": 3.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1045726.aspx"
+  },
+  {
+    "name": "Breton Brewing Let's Jam Strawberry Rhubarb Sour",
+    "price_cad": 5.44,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.48,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1030755.aspx"
+  },
+  {
+    "name": "Stiegl Grapefruit Radler",
+    "price_cad": 5.14,
+    "abv_percent": 2.5,
+    "volume_ml": 500.0,
+    "score": 2.43,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1018833.aspx"
+  },
+  {
+    "name": "Busch Bullet",
+    "price_cad": 7.92,
+    "abv_percent": 7.0,
+    "volume_ml": 222.0,
+    "score": 1.96,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1046089.aspx"
+  },
+  {
+    "name": "Boxing Rock IPA",
+    "price_cad": 18.13,
+    "abv_percent": 6.6,
+    "volume_ml": 473.0,
+    "score": 1.72,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1038120.aspx"
+  },
+  {
+    "name": "Nine Locks Frig Off East Coast IPA",
+    "price_cad": 19.07,
+    "abv_percent": 6.7,
+    "volume_ml": 473.0,
+    "score": 1.66,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1040602.aspx"
+  },
+  {
+    "name": "Propeller Galaxy IPA 4 Can Pack",
+    "price_cad": 19.08,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 1.61,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1030751.aspx"
+  },
+  {
+    "name": "Good Robot Diablo Mexican Lager",
+    "price_cad": 18.81,
+    "abv_percent": 5.6,
+    "volume_ml": 473.0,
+    "score": 1.41,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/other_flavoured/1046101.aspx"
+  },
+  {
+    "name": "Propeller Extra Special Bitter 4 Can Pack",
+    "price_cad": 17.09,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 1.38,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Other%20Ale/1033309.aspx"
+  },
+  {
+    "name": "Big Spruce Kitchen Party Pale Ale",
+    "price_cad": 19.13,
+    "abv_percent": 5.4,
+    "volume_ml": 473.0,
+    "score": 1.34,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1025069.aspx"
+  },
+  {
+    "name": "Kilkenny Irish Cream Ale",
+    "price_cad": 16.35,
+    "abv_percent": 4.3,
+    "volume_ml": 500.0,
+    "score": 1.31,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1023026.aspx"
+  },
+  {
+    "name": "Busch Max Ice",
+    "price_cad": 21.81,
+    "abv_percent": 8.0,
+    "volume_ml": 355.0,
+    "score": 1.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1046091.aspx"
+  },
+  {
+    "name": "Garrison Hoppy Boy IPA",
+    "price_cad": 17.84,
+    "abv_percent": 6.5,
+    "volume_ml": 355.0,
+    "score": 1.29,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1038117.aspx"
+  },
+  {
+    "name": "Boxing Rock IPA",
+    "price_cad": 18.32,
+    "abv_percent": 6.6,
+    "volume_ml": 355.0,
+    "score": 1.28,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/American%20IPA/1046086.aspx"
+  },
+  {
+    "name": "Nine Locks Dirty Blonde",
+    "price_cad": 18.59,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 1.27,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1023774.aspx"
+  },
+  {
+    "name": "Propeller IPA 6 Bottle Pack",
+    "price_cad": 17.59,
+    "abv_percent": 6.5,
+    "volume_ml": 341.0,
+    "score": 1.26,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1006639.aspx"
+  },
+  {
+    "name": "Busch Ice 8 Can Pack",
+    "price_cad": 22.78,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 1.25,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1027739.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co North Shore Lagered Ale",
+    "price_cad": 18.33,
+    "abv_percent": 4.7,
+    "volume_ml": 473.0,
+    "score": 1.21,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Specialty%20Ale/1022296.aspx"
+  },
+  {
+    "name": "Breton Brewing Black Angus IPA",
+    "price_cad": 18.34,
+    "abv_percent": 6.2,
+    "volume_ml": 355.0,
+    "score": 1.2,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1035651.aspx"
+  },
+  {
+    "name": "Sapporo Black Lager",
+    "price_cad": 19.8,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 1.19,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1045288.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Deception Bay IPA",
+    "price_cad": 18.83,
+    "abv_percent": 6.2,
+    "volume_ml": 355.0,
+    "score": 1.17,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1043303.aspx"
+  },
+  {
+    "name": "Garrison Hold Fast Ale",
+    "price_cad": 17.23,
+    "abv_percent": 5.5,
+    "volume_ml": 355.0,
+    "score": 1.13,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1045112.aspx"
+  },
+  {
+    "name": "Pub Draught Guinness Stout",
+    "price_cad": 16.85,
+    "abv_percent": 4.2,
+    "volume_ml": 440.0,
+    "score": 1.1,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/dry_irish_Stout/1006541.aspx"
+  },
+  {
+    "name": "Boxing Rock Puck Off Blonde Ale",
+    "price_cad": 16.74,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 1.06,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1043297.aspx"
+  },
+  {
+    "name": "Alexander Keith's Bohemian Lager",
+    "price_cad": 16.85,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 1.05,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1043389.aspx"
+  },
+  {
+    "name": "Garrison Tall Ship Ale",
+    "price_cad": 16.85,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 1.05,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1031248.aspx"
+  },
+  {
+    "name": "Garrison Irish Red Ale",
+    "price_cad": 17.14,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 1.04,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1040781.aspx"
+  },
+  {
+    "name": "Alexander Keith's Stag's Head Red Ale",
+    "price_cad": 17.28,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 1.03,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1040365.aspx"
+  },
+  {
+    "name": "Boxing Rock Hunky Dory Pale Ale",
+    "price_cad": 17.35,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 1.02,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1040790.aspx"
+  },
+  {
+    "name": "James Ready Dry Ice",
+    "price_cad": 21.81,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.98,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1040778.aspx"
+  },
+  {
+    "name": "Pumphouse Crafty Radler",
+    "price_cad": 17.63,
+    "abv_percent": 4.7,
+    "volume_ml": 355.0,
+    "score": 0.95,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1027720.aspx"
+  },
+  {
+    "name": "Flying Fish Lemon Flavoured Beer",
+    "price_cad": 16.83,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.95,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/Fruit/1046333.aspx"
+  },
+  {
+    "name": "Miller High Life",
+    "price_cad": 17.35,
+    "abv_percent": 4.6,
+    "volume_ml": 355.0,
+    "score": 0.94,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1041903.aspx"
+  },
+  {
+    "name": "Whistler Brew Forager Gluten Free Lager",
+    "price_cad": 18.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.94,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Specialty/gluten-free/1035668.aspx"
+  },
+  {
+    "name": "Carlsberg Lager",
+    "price_cad": 17.83,
+    "abv_percent": 5.0,
+    "volume_ml": 330.0,
+    "score": 0.93,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1007261.aspx"
+  },
+  {
+    "name": "North Brewing Lawrencetown IPA",
+    "price_cad": 17.28,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.92,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1035833.aspx"
+  },
+  {
+    "name": "Landshark Premium Lager",
+    "price_cad": 17.83,
+    "abv_percent": 4.6,
+    "volume_ml": 355.0,
+    "score": 0.92,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1030729.aspx"
+  },
+  {
+    "name": "Stella Artois Lager 6 Bottle Pack",
+    "price_cad": 19.82,
+    "abv_percent": 5.2,
+    "volume_ml": 330.0,
+    "score": 0.87,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001051.aspx"
+  },
+  {
+    "name": "Peroni Nastro Azzurro Lager",
+    "price_cad": 19.32,
+    "abv_percent": 5.1,
+    "volume_ml": 330.0,
+    "score": 0.87,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1009498.aspx"
+  },
+  {
+    "name": "Rolling Rock Extra Pale Lager",
+    "price_cad": 18.33,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.87,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1015749.aspx"
+  },
+  {
+    "name": "Propeller Cerveza",
+    "price_cad": 19.82,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.86,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1046338.aspx"
+  },
+  {
+    "name": "Molson Canadian Cold Shots",
+    "price_cad": 15.64,
+    "abv_percent": 6.0,
+    "volume_ml": 222.0,
+    "score": 0.85,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1034248.aspx"
+  },
+  {
+    "name": "Dab Ultimate Lager",
+    "price_cad": 23.79,
+    "abv_percent": 4.0,
+    "volume_ml": 500.0,
+    "score": 0.84,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1034582.aspx"
+  },
+  {
+    "name": "Heineken Lager",
+    "price_cad": 19.82,
+    "abv_percent": 5.0,
+    "volume_ml": 330.0,
+    "score": 0.83,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000015.aspx"
+  },
+  {
+    "name": "Busch Ice",
+    "price_cad": 21.81,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.81,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1040776.aspx"
+  },
+  {
+    "name": "Michelob Ultra Lager",
+    "price_cad": 18.33,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.77,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1035622.aspx"
+  },
+  {
+    "name": "Corona Extra Lager",
+    "price_cad": 19.82,
+    "abv_percent": 4.6,
+    "volume_ml": 330.0,
+    "score": 0.77,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001413.aspx"
+  },
+  {
+    "name": "Alexander Keith's India Pale Ale",
+    "price_cad": 24.08,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.74,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1040570.aspx"
+  },
+  {
+    "name": "Budweiser Lager",
+    "price_cad": 24.08,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.74,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1040558.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Guava Heist Berliner Weisse",
+    "price_cad": 18.83,
+    "abv_percent": 3.6,
+    "volume_ml": 355.0,
+    "score": 0.68,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Sour%20Ale/1046108.aspx"
+  },
+  {
+    "name": "Propeller Galaxy IPA",
+    "price_cad": 34.17,
+    "abv_percent": 6.5,
+    "volume_ml": 355.0,
+    "score": 0.68,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1042049.aspx"
+  },
+  {
+    "name": "Good Robot Lager",
+    "price_cad": 29.24,
+    "abv_percent": 5.5,
+    "volume_ml": 355.0,
+    "score": 0.67,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Amber%20Lager/1039495.aspx"
+  },
+  {
+    "name": "Nine Locks The IPA",
+    "price_cad": 37.17,
+    "abv_percent": 6.9,
+    "volume_ml": 355.0,
+    "score": 0.66,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1037005.aspx"
+  },
+  {
+    "name": "Carling Black Ice 15 Pack Cans",
+    "price_cad": 33.21,
+    "abv_percent": 6.1,
+    "volume_ml": 355.0,
+    "score": 0.65,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1038157.aspx"
+  },
+  {
+    "name": "Busch Ice 15 Pack Cans",
+    "price_cad": 33.21,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1027731.aspx"
+  },
+  {
+    "name": "Propeller Prime Lager",
+    "price_cad": 27.75,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1035640.aspx"
+  },
+  {
+    "name": "James Ready Dry Ice 15 Can Pack",
+    "price_cad": 33.21,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1027764.aspx"
+  },
+  {
+    "name": "James Ready 6.0 15 Can Pack",
+    "price_cad": 33.21,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1035670.aspx"
+  },
+  {
+    "name": "Nine Locks Frig Off East Coast IPA",
+    "price_cad": 37.18,
+    "abv_percent": 6.7,
+    "volume_ml": 355.0,
+    "score": 0.64,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046103.aspx"
+  },
+  {
+    "name": "Coors Light Lager",
+    "price_cad": 22.58,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.63,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1040779.aspx"
+  },
+  {
+    "name": "Nine Locks Hop Box IPA Mix",
+    "price_cad": 36.68,
+    "abv_percent": 6.5,
+    "volume_ml": 355.0,
+    "score": 0.63,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Variety%20Pack/1045130.aspx"
+  },
+  {
+    "name": "Toller Lager",
+    "price_cad": 28.74,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.62,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1038121.aspx"
+  },
+  {
+    "name": "Breton Brewing Black Angus IPA",
+    "price_cad": 35.67,
+    "abv_percent": 6.2,
+    "volume_ml": 355.0,
+    "score": 0.62,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046256.aspx"
+  },
+  {
+    "name": "Toller Gold Lager",
+    "price_cad": 28.74,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.62,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1033292.aspx"
+  },
+  {
+    "name": "Toller Lite Lager",
+    "price_cad": 28.74,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.62,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1034167.aspx"
+  },
+  {
+    "name": "Nine Locks Jake's Easy Lager",
+    "price_cad": 29.24,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.61,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1043242.aspx"
+  },
+  {
+    "name": "Oland Export Ale",
+    "price_cad": 29.24,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.61,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1005301.aspx"
+  },
+  {
+    "name": "Pabst Blue Ribbon Lager",
+    "price_cad": 28.74,
+    "abv_percent": 4.9,
+    "volume_ml": 355.0,
+    "score": 0.61,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1027785.aspx"
+  },
+  {
+    "name": "Guinness Pub Draught Stout 8 Can Pack",
+    "price_cad": 30.73,
+    "abv_percent": 4.2,
+    "volume_ml": 440.0,
+    "score": 0.6,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Stout_Porter/dry_irish_Stout/1001811.aspx"
+  },
+  {
+    "name": "Michelob Ultra Lager",
+    "price_cad": 24.75,
+    "abv_percent": 4.2,
+    "volume_ml": 355.0,
+    "score": 0.6,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1046229.aspx"
+  },
+  {
+    "name": "Coldstream Nova Scotia Lager",
+    "price_cad": 30.25,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1040653.aspx"
+  },
+  {
+    "name": "James Ready 5.5",
+    "price_cad": 33.21,
+    "abv_percent": 5.5,
+    "volume_ml": 355.0,
+    "score": 0.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1040597.aspx"
+  },
+  {
+    "name": "Bud Light Lager",
+    "price_cad": 24.08,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.59,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1040563.aspx"
+  },
+  {
+    "name": "Propeller Blonde Ale",
+    "price_cad": 30.7,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.58,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1045814.aspx"
+  },
+  {
+    "name": "Sleeman Honey Brown Lager",
+    "price_cad": 31.01,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.57,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/other_flavoured/1033316.aspx"
+  },
+  {
+    "name": "Miller Lite",
+    "price_cad": 24.75,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.57,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1043300.aspx"
+  },
+  {
+    "name": "Garrison Tall Ship Ale",
+    "price_cad": 31.23,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.57,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1033261.aspx"
+  },
+  {
+    "name": "Pump House Crafty Radler Cans",
+    "price_cad": 29.71,
+    "abv_percent": 4.7,
+    "volume_ml": 355.0,
+    "score": 0.56,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1037769.aspx"
+  },
+  {
+    "name": "Alexander Keith's Blonde Ale",
+    "price_cad": 31.72,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.56,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1040902.aspx"
+  },
+  {
+    "name": "Labatt Blue Pilsner 12 Can Pack",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1005322.aspx"
+  },
+  {
+    "name": "Alexander Keith's India Pale Ale",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1001939.aspx"
+  },
+  {
+    "name": "Sleeman Seasonal Selections Variety Pack",
+    "price_cad": 32.21,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Variety%20Pack/1027761.aspx"
+  },
+  {
+    "name": "Sleeman Original Lager",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1012269.aspx"
+  },
+  {
+    "name": "Budweiser Lager 12 Can Pack",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001494.aspx"
+  },
+  {
+    "name": "Blue Moon Wheat Ale 12 Can Pack",
+    "price_cad": 34.69,
+    "abv_percent": 5.4,
+    "volume_ml": 355.0,
+    "score": 0.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Belgian/other_belgian/1022730.aspx"
+  },
+  {
+    "name": "Molson Canadian Lager",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.55,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001396.aspx"
+  },
+  {
+    "name": "Alexander Keith's Bohemian Lager",
+    "price_cad": 32.71,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.54,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1046048.aspx"
+  },
+  {
+    "name": "Alexander Keith’s Red Amber Ale",
+    "price_cad": 32.71,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.54,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1046025.aspx"
+  },
+  {
+    "name": "Alexander Keith’s Premium White Ale",
+    "price_cad": 32.71,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.54,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Wheat%20Ale/1046032.aspx"
+  },
+  {
+    "name": "Alpine Lager",
+    "price_cad": 31.71,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.54,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000706.aspx"
+  },
+  {
+    "name": "Oland Schooner Lager",
+    "price_cad": 32.71,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.54,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1013330.aspx"
+  },
+  {
+    "name": "Budweiser Lager 12 Bottle Pack",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000701.aspx"
+  },
+  {
+    "name": "Busch Lager 15 Pack Cans",
+    "price_cad": 33.21,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1027735.aspx"
+  },
+  {
+    "name": "Sleeman Honey Blonde Lager",
+    "price_cad": 33.21,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/other-lager/1046083.aspx"
+  },
+  {
+    "name": "Coldstream Nova Scotia Light Lager",
+    "price_cad": 30.25,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1042182.aspx"
+  },
+  {
+    "name": "Alexander Keith's India Pale Ale",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1001391.aspx"
+  },
+  {
+    "name": "Oland Export Ale",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1000711.aspx"
+  },
+  {
+    "name": "Moosehead Lager",
+    "price_cad": 33.21,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1007793.aspx"
+  },
+  {
+    "name": "Labatt Blue Pilsner 12 Bottle Pack",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1027740.aspx"
+  },
+  {
+    "name": "Sleeman Original Lager 12 Bottle Pack",
+    "price_cad": 32.22,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.53,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001471.aspx"
+  },
+  {
+    "name": "Garrison The Beers of Summer Mix Pack",
+    "price_cad": 34.2,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.52,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/Fruit/1046099.aspx"
+  },
+  {
+    "name": "Propeller Anytime IPA",
+    "price_cad": 30.7,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.52,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1044434.aspx"
+  },
+  {
+    "name": "Big Spruce Kitchen Party Pale Ale",
+    "price_cad": 37.67,
+    "abv_percent": 5.5,
+    "volume_ml": 355.0,
+    "score": 0.52,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Pale%20Ale/1043296.aspx"
+  },
+  {
+    "name": "Miller High Life",
+    "price_cad": 31.23,
+    "abv_percent": 4.6,
+    "volume_ml": 355.0,
+    "score": 0.52,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1046500.aspx"
+  },
+  {
+    "name": "Sapporo Premium Lager",
+    "price_cad": 33.98,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.52,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1019115.aspx"
+  },
+  {
+    "name": "Oland Schooner Lager",
+    "price_cad": 32.71,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.52,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000712.aspx"
+  },
+  {
+    "name": "Moosehead Lager",
+    "price_cad": 33.7,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.51,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000708.aspx"
+  },
+  {
+    "name": "Coors Original Lager",
+    "price_cad": 34.69,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.51,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1018102.aspx"
+  },
+  {
+    "name": "Burnside Brewing Killick Premium Lager",
+    "price_cad": 32.71,
+    "abv_percent": 4.7,
+    "volume_ml": 355.0,
+    "score": 0.51,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1043336.aspx"
+  },
+  {
+    "name": "Rickard's Red Ale",
+    "price_cad": 34.69,
+    "abv_percent": 5.2,
+    "volume_ml": 341.0,
+    "score": 0.51,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Red%20Ale/1001276.aspx"
+  },
+  {
+    "name": "Garrison Tall Ship Light Ale",
+    "price_cad": 27.74,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.51,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1035046.aspx"
+  },
+  {
+    "name": "Nine Locks Dirty Blonde",
+    "price_cad": 35.19,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1035623.aspx"
+  },
+  {
+    "name": "Alpine Lager",
+    "price_cad": 35.45,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1039390.aspx"
+  },
+  {
+    "name": "Nine Locks Blonde Mixer Pack",
+    "price_cad": 35.19,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Variety%20Pack/1043265.aspx"
+  },
+  {
+    "name": "North Brewing Lawrencetown IPA",
+    "price_cad": 32.68,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.49,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1046104.aspx"
+  },
+  {
+    "name": "The Nine Locks of Christmas Advent Calendar",
+    "price_cad": 49.56,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 0.48,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Variety%20Pack/1045294.aspx"
+  },
+  {
+    "name": "Moosehead Lager",
+    "price_cad": 37.13,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.48,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1013887.aspx"
+  },
+  {
+    "name": "Stella Artois Lager 12 Can Pack",
+    "price_cad": 37.17,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.48,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1034276.aspx"
+  },
+  {
+    "name": "Miller Genuine Draft",
+    "price_cad": 34.69,
+    "abv_percent": 4.7,
+    "volume_ml": 355.0,
+    "score": 0.48,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000897.aspx"
+  },
+  {
+    "name": "Heineken Lager",
+    "price_cad": 34.97,
+    "abv_percent": 5.0,
+    "volume_ml": 330.0,
+    "score": 0.47,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1007387.aspx"
+  },
+  {
+    "name": "Moosehead Limeade Mixer",
+    "price_cad": 30.51,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/other_flavoured/1046082.aspx"
+  },
+  {
+    "name": "Good Robot Ultra Light Lager",
+    "price_cad": 30.24,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1043393.aspx"
+  },
+  {
+    "name": "Moosehead Radler",
+    "price_cad": 30.51,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Radler/1021671.aspx"
+  },
+  {
+    "name": "Madri Excepcional Lager",
+    "price_cad": 34.97,
+    "abv_percent": 4.6,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1043327.aspx"
+  },
+  {
+    "name": "Mill Street Original Organic Lager",
+    "price_cad": 32.71,
+    "abv_percent": 4.2,
+    "volume_ml": 355.0,
+    "score": 0.46,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1033284.aspx"
+  },
+  {
+    "name": "Tatamagouche Brewing Co Apres Cream Ale",
+    "price_cad": 34.68,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.46,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Hybrid/american_cream_ale/1045010.aspx"
+  },
+  {
+    "name": "Stella Artois Lager 12 Bottle Pack",
+    "price_cad": 37.17,
+    "abv_percent": 5.2,
+    "volume_ml": 330.0,
+    "score": 0.46,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001539.aspx"
+  },
+  {
+    "name": "Toller Lite Lager Dog Days Mix Pack",
+    "price_cad": 31.72,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.45,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/Fruit/1046232.aspx"
+  },
+  {
+    "name": "Sol Lager",
+    "price_cad": 32.99,
+    "abv_percent": 4.5,
+    "volume_ml": 330.0,
+    "score": 0.45,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1018536.aspx"
+  },
+  {
+    "name": "Coors Original Lager",
+    "price_cad": 39.64,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.45,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1034080.aspx"
+  },
+  {
+    "name": "Alexander Keith's India Pale Ale",
+    "price_cad": 40.65,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1026668.aspx"
+  },
+  {
+    "name": "Breton Brewing Light Lager",
+    "price_cad": 32.23,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1043065.aspx"
+  },
+  {
+    "name": "Heineken Lager",
+    "price_cad": 37.17,
+    "abv_percent": 5.0,
+    "volume_ml": 330.0,
+    "score": 0.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001587.aspx"
+  },
+  {
+    "name": "Corona Extra Lager",
+    "price_cad": 37.17,
+    "abv_percent": 4.6,
+    "volume_ml": 355.0,
+    "score": 0.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1009846.aspx"
+  },
+  {
+    "name": "Coors Light Lager",
+    "price_cad": 32.22,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1001614.aspx"
+  },
+  {
+    "name": "Bud Light Lager",
+    "price_cad": 32.22,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1001493.aspx"
+  },
+  {
+    "name": "Alexander Keith's Light Ale",
+    "price_cad": 32.22,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1001940.aspx"
+  },
+  {
+    "name": "Sleeman Clear Lager 12 Can Pack",
+    "price_cad": 32.22,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.44,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1007406.aspx"
+  },
+  {
+    "name": "Bud Light Lime Time Mixer",
+    "price_cad": 32.72,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.43,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/Fruit/1046225.aspx"
+  },
+  {
+    "name": "Modelo Especial",
+    "price_cad": 37.17,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.43,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1020715.aspx"
+  },
+  {
+    "name": "Moosehead Chelada",
+    "price_cad": 32.71,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.43,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Flavoured/other_flavoured/1040717.aspx"
+  },
+  {
+    "name": "Busch Light Lager 15 Can Pack",
+    "price_cad": 33.21,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.43,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1027783.aspx"
+  },
+  {
+    "name": "Coors Light Lager 12 Bottle Pack",
+    "price_cad": 32.22,
+    "abv_percent": 4.0,
+    "volume_ml": 341.0,
+    "score": 0.42,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1000405.aspx"
+  },
+  {
+    "name": "Sleeman Clear 2.0 Lager",
+    "price_cad": 32.22,
+    "abv_percent": 4.0,
+    "volume_ml": 341.0,
+    "score": 0.42,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001459.aspx"
+  },
+  {
+    "name": "Bud Light Lager",
+    "price_cad": 32.22,
+    "abv_percent": 4.0,
+    "volume_ml": 341.0,
+    "score": 0.42,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1001023.aspx"
+  },
+  {
+    "name": "Corona Extra Lager",
+    "price_cad": 37.17,
+    "abv_percent": 4.6,
+    "volume_ml": 330.0,
+    "score": 0.41,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000754.aspx"
+  },
+  {
+    "name": "Nine Locks Dirty Blonde Light",
+    "price_cad": 34.68,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.41,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1040862.aspx"
+  },
+  {
+    "name": "Molson Canadian Lager",
+    "price_cad": 44.12,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.4,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1043940.aspx"
+  },
+  {
+    "name": "Sleeman Clear 2.0 Lager",
+    "price_cad": 35.45,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.4,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1027369.aspx"
+  },
+  {
+    "name": "Budweiser Lager",
+    "price_cad": 44.12,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.4,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1042707.aspx"
+  },
+  {
+    "name": "Alexander Keith's India Pale Ale",
+    "price_cad": 44.12,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.4,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1047566.aspx"
+  },
+  {
+    "name": "Michelob Ultra Lager",
+    "price_cad": 34.69,
+    "abv_percent": 4.0,
+    "volume_ml": 341.0,
+    "score": 0.39,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1015779.aspx"
+  },
+  {
+    "name": "Heineken Lager",
+    "price_cad": 47.57,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.37,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1039841.aspx"
+  },
+  {
+    "name": "Oland Export Ale",
+    "price_cad": 49.58,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.36,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1046109.aspx"
+  },
+  {
+    "name": "Heineken Silver",
+    "price_cad": 37.17,
+    "abv_percent": 4.0,
+    "volume_ml": 330.0,
+    "score": 0.36,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1045725.aspx"
+  },
+  {
+    "name": "Alexander Keith's India Pale Ale",
+    "price_cad": 49.58,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.36,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1015031.aspx"
+  },
+  {
+    "name": "Miller Lite",
+    "price_cad": 40.13,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.35,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1030813.aspx"
+  },
+  {
+    "name": "Moosehead Light Lager",
+    "price_cad": 40.13,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.35,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1030591.aspx"
+  },
+  {
+    "name": "Michelob Ultra Lager",
+    "price_cad": 40.13,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.35,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1028040.aspx"
+  },
+  {
+    "name": "Coors Light Lager",
+    "price_cad": 44.12,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.32,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1039586.aspx"
+  },
+  {
+    "name": "Bud Light Lager",
+    "price_cad": 44.12,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.32,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1042708.aspx"
+  },
+  {
+    "name": "Stella Artois Lager",
+    "price_cad": 57.51,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.31,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1040875.aspx"
+  },
+  {
+    "name": "Oland Schooner Lager",
+    "price_cad": 57.51,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000722.aspx"
+  },
+  {
+    "name": "Labatt Blue Pilsner 24 Bottle Pack",
+    "price_cad": 57.51,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001148.aspx"
+  },
+  {
+    "name": "Molson Canadian Lager",
+    "price_cad": 57.51,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1000397.aspx"
+  },
+  {
+    "name": "Corona Light Lager",
+    "price_cad": 37.17,
+    "abv_percent": 3.4,
+    "volume_ml": 330.0,
+    "score": 0.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1009845.aspx"
+  },
+  {
+    "name": "Alexander Keith's India Pale Ale",
+    "price_cad": 57.51,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1001149.aspx"
+  },
+  {
+    "name": "Budweiser Lager 24 Bottle Pack",
+    "price_cad": 57.51,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1001367.aspx"
+  },
+  {
+    "name": "Oland Export Ale",
+    "price_cad": 57.51,
+    "abv_percent": 5.0,
+    "volume_ml": 341.0,
+    "score": 0.3,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1001323.aspx"
+  },
+  {
+    "name": "Heineken Lager",
+    "price_cad": 57.51,
+    "abv_percent": 5.0,
+    "volume_ml": 330.0,
+    "score": 0.29,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1036980.aspx"
+  },
+  {
+    "name": "Nine Locks Dirty Blonde",
+    "price_cad": 63.46,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.28,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Blonde%20Ale/1043243.aspx"
+  },
+  {
+    "name": "Moosehead Lager",
+    "price_cad": 66.91,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.27,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1038696.aspx"
+  },
+  {
+    "name": "Corona Extra Lager 24 Bottle Pack",
+    "price_cad": 57.51,
+    "abv_percent": 4.6,
+    "volume_ml": 330.0,
+    "score": 0.26,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1035674.aspx"
+  },
+  {
+    "name": "Alexander Keith's IPA 36 Can Pack",
+    "price_cad": 71.4,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.25,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/India_Pale_Ale/1025391.aspx"
+  },
+  {
+    "name": "Corona Extra Lager",
+    "price_cad": 57.51,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.25,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1038436.aspx"
+  },
+  {
+    "name": "Budweiser Lager",
+    "price_cad": 71.4,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.25,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1025009.aspx"
+  },
+  {
+    "name": "Molson Canadian Lager",
+    "price_cad": 71.4,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.25,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1042592.aspx"
+  },
+  {
+    "name": "Alexander Keith's Light IPA 24 Bottle Pack",
+    "price_cad": 57.51,
+    "abv_percent": 4.0,
+    "volume_ml": 341.0,
+    "score": 0.24,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Ale/Light%20Ale/1000854.aspx"
+  },
+  {
+    "name": "Coors Light Lager 24 Bottle Pack",
+    "price_cad": 57.51,
+    "abv_percent": 4.0,
+    "volume_ml": 341.0,
+    "score": 0.24,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1001585.aspx"
+  },
+  {
+    "name": "Bud Light Lager",
+    "price_cad": 57.51,
+    "abv_percent": 4.0,
+    "volume_ml": 341.0,
+    "score": 0.24,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1001383.aspx"
+  },
+  {
+    "name": "Michelob Ultra Lager",
+    "price_cad": 66.91,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.21,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1033335.aspx"
+  },
+  {
+    "name": "Miller Lite Lager",
+    "price_cad": 66.91,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.21,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1038651.aspx"
+  },
+  {
+    "name": "Coors Light Lager",
+    "price_cad": 71.4,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.2,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Light%20Lager/1025588.aspx"
+  },
+  {
+    "name": "Bud Light Lager",
+    "price_cad": 71.4,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.2,
+    "category": "Beer",
+    "url": "https://www.mynslc.com/en/products/Beer/Lager/Pale%20Lager/1023036.aspx"
+  }
+]

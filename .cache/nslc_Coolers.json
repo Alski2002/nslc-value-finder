@@ -1,0 +1,1631 @@
+[
+  {
+    "name": "Cutwater Mai Tai",
+    "price_cad": 5.4,
+    "abv_percent": 12.5,
+    "volume_ml": 355.0,
+    "score": 8.22,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Rum/1046051.aspx"
+  },
+  {
+    "name": "Twisted Tea Extreme Blue Razz",
+    "price_cad": 4.45,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 7.44,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1045768.aspx"
+  },
+  {
+    "name": "Rockstar Vodka Cooler",
+    "price_cad": 4.45,
+    "abv_percent": 6.9,
+    "volume_ml": 473.0,
+    "score": 7.33,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1004426.aspx"
+  },
+  {
+    "name": "Mike's Harder Lemonade",
+    "price_cad": 7.43,
+    "abv_percent": 7.0,
+    "volume_ml": 740.0,
+    "score": 6.97,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1046343.aspx"
+  },
+  {
+    "name": "Black Fly MAXX Cherry Bomb",
+    "price_cad": 4.45,
+    "abv_percent": 12.0,
+    "volume_ml": 250.0,
+    "score": 6.74,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1046055.aspx"
+  },
+  {
+    "name": "Black Fly Vodka Crushed Orange Cocktail",
+    "price_cad": 4.95,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.69,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1034147.aspx"
+  },
+  {
+    "name": "Mike's Harder Lemonade",
+    "price_cad": 4.95,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.69,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1043028.aspx"
+  },
+  {
+    "name": "Black Fly Vodka Sour Raspberry",
+    "price_cad": 4.95,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.69,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1031176.aspx"
+  },
+  {
+    "name": "Propeller Perfect Storm",
+    "price_cad": 4.95,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.69,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Rum/1029905.aspx"
+  },
+  {
+    "name": "Black Fly Crushed Root Beer",
+    "price_cad": 4.95,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.69,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1046375.aspx"
+  },
+  {
+    "name": "Crown Royal Blackberry Whisky Lemonade",
+    "price_cad": 4.95,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.69,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Whisky/1046376.aspx"
+  },
+  {
+    "name": "Black Fly Vodka Crushed Punch",
+    "price_cad": 4.95,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.69,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1034229.aspx"
+  },
+  {
+    "name": "Smirnoff Ice VII",
+    "price_cad": 5.24,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 6.32,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1017327.aspx"
+  },
+  {
+    "name": "Fireball Apple Cinnamon",
+    "price_cad": 4.95,
+    "abv_percent": 6.6,
+    "volume_ml": 473.0,
+    "score": 6.31,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Whisky/1045765.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Original",
+    "price_cad": 11.89,
+    "abv_percent": 7.0,
+    "volume_ml": 1000.0,
+    "score": 5.89,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1009416.aspx"
+  },
+  {
+    "name": "Blue Lobster Tropical Punch",
+    "price_cad": 4.95,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 5.73,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1037597.aspx"
+  },
+  {
+    "name": "Blue Lobster Rocket",
+    "price_cad": 4.95,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 5.73,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1033095.aspx"
+  },
+  {
+    "name": "Cottage Springs Raspberry Lime Vodka Water",
+    "price_cad": 35.38,
+    "abv_percent": 5.0,
+    "volume_ml": 4000.0,
+    "score": 5.65,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1036707.aspx"
+  },
+  {
+    "name": "Coldstream Peach Vodka Water Bag In Box",
+    "price_cad": 36.67,
+    "abv_percent": 5.0,
+    "volume_ml": 4000.0,
+    "score": 5.45,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1043238.aspx"
+  },
+  {
+    "name": "Mike's Hard Blue Freeze",
+    "price_cad": 4.45,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.31,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1033341.aspx"
+  },
+  {
+    "name": "Mike's Hard Purple Freeze",
+    "price_cad": 4.45,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.31,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1043027.aspx"
+  },
+  {
+    "name": "Mike's Hard White Freeze",
+    "price_cad": 4.45,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.31,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1035286.aspx"
+  },
+  {
+    "name": "Mike's Hard Pink Freeze",
+    "price_cad": 4.45,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.31,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1045727.aspx"
+  },
+  {
+    "name": "Twisted Tea Original",
+    "price_cad": 4.45,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 5.31,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1043437.aspx"
+  },
+  {
+    "name": "Mott's Clamato Pickled Bean Caesar",
+    "price_cad": 5.05,
+    "abv_percent": 5.5,
+    "volume_ml": 458.0,
+    "score": 4.99,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1025024.aspx"
+  },
+  {
+    "name": "Mott’s Clamato Original Caesar",
+    "price_cad": 5.05,
+    "abv_percent": 5.5,
+    "volume_ml": 458.0,
+    "score": 4.99,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1018866.aspx"
+  },
+  {
+    "name": "Matt & Steve's Hot & Spicy Caesar",
+    "price_cad": 5.34,
+    "abv_percent": 5.5,
+    "volume_ml": 473.0,
+    "score": 4.87,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1037118.aspx"
+  },
+  {
+    "name": "Twisted Tea Original",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Malt/1046130.aspx"
+  },
+  {
+    "name": "Propeller Hard Orange Creamsicle",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1043264.aspx"
+  },
+  {
+    "name": "Propeller Hard Root Beer Float",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1041680.aspx"
+  },
+  {
+    "name": "Georgian Bay Gin Smash Cranberry",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Gin/1031331.aspx"
+  },
+  {
+    "name": "Mike's Hard Orange n' Cream",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1040262.aspx"
+  },
+  {
+    "name": "Mike's Hard Peach Fuzz",
+    "price_cad": 4.95,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1034398.aspx"
+  },
+  {
+    "name": "Hires Root Beer and Vodka Soda",
+    "price_cad": 5.05,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.68,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1026611.aspx"
+  },
+  {
+    "name": "Bask Rosé Wine Spritz",
+    "price_cad": 4.08,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 4.35,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/wine-coolers/Wine/1040300.aspx"
+  },
+  {
+    "name": "Coors Seltzer Slushie Grape",
+    "price_cad": 5.15,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 4.13,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046487.aspx"
+  },
+  {
+    "name": "Girls' Night Out Pineapple Mango Tango",
+    "price_cad": 24.22,
+    "abv_percent": 6.5,
+    "volume_ml": 1500.0,
+    "score": 4.03,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/wine-coolers/Wine/1046378.aspx"
+  },
+  {
+    "name": "Girls' Night Out Strawberry Samba",
+    "price_cad": 24.22,
+    "abv_percent": 6.5,
+    "volume_ml": 1500.0,
+    "score": 4.03,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/wine-coolers/Wine/1043298.aspx"
+  },
+  {
+    "name": "Bask Sangria Wine Spritz",
+    "price_cad": 4.43,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 4.01,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/wine-coolers/Wine/1042609.aspx"
+  },
+  {
+    "name": "Bask White Wine Spritz",
+    "price_cad": 4.43,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 4.01,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/wine-coolers/Wine/1042608.aspx"
+  },
+  {
+    "name": "Mott's Clamato Light Caesar",
+    "price_cad": 4.95,
+    "abv_percent": 4.0,
+    "volume_ml": 458.0,
+    "score": 3.7,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1043288.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Original",
+    "price_cad": 4.93,
+    "abv_percent": 5.0,
+    "volume_ml": 330.0,
+    "score": 3.35,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1017676.aspx"
+  },
+  {
+    "name": "Mudshake French Vanilla Vodka Cream Cooler",
+    "price_cad": 4.45,
+    "abv_percent": 5.0,
+    "volume_ml": 270.0,
+    "score": 3.03,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Cream/Vodka/1001885.aspx"
+  },
+  {
+    "name": "Vodka Mudshake Chocolate",
+    "price_cad": 4.45,
+    "abv_percent": 5.0,
+    "volume_ml": 270.0,
+    "score": 3.03,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Cream/Vodka/1001886.aspx"
+  },
+  {
+    "name": "Barkeep Cocktails Espresso Martini",
+    "price_cad": 9.89,
+    "abv_percent": 10.0,
+    "volume_ml": 237.0,
+    "score": 2.4,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Neutral/1045146.aspx"
+  },
+  {
+    "name": "Cutwater Tequila Margarita",
+    "price_cad": 19.8,
+    "abv_percent": 12.5,
+    "volume_ml": 355.0,
+    "score": 2.24,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Tequila/1043067.aspx"
+  },
+  {
+    "name": "Cutwater Mango Margarita",
+    "price_cad": 19.8,
+    "abv_percent": 12.5,
+    "volume_ml": 355.0,
+    "score": 2.24,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Tequila/1046053.aspx"
+  },
+  {
+    "name": "Cutwater Mai Tai",
+    "price_cad": 19.8,
+    "abv_percent": 12.5,
+    "volume_ml": 355.0,
+    "score": 2.24,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Rum/1045567.aspx"
+  },
+  {
+    "name": "Mike's Harder Lemonade",
+    "price_cad": 7.9,
+    "abv_percent": 7.0,
+    "volume_ml": 222.0,
+    "score": 1.97,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1046054.aspx"
+  },
+  {
+    "name": "Black Fly Vodka Citrus",
+    "price_cad": 15.16,
+    "abv_percent": 7.0,
+    "volume_ml": 400.0,
+    "score": 1.85,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1015737.aspx"
+  },
+  {
+    "name": "Black Fly Vodka Grapefruit",
+    "price_cad": 15.16,
+    "abv_percent": 7.0,
+    "volume_ml": 400.0,
+    "score": 1.85,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1022878.aspx"
+  },
+  {
+    "name": "Black Fly Vodka Cranberry",
+    "price_cad": 15.16,
+    "abv_percent": 7.0,
+    "volume_ml": 400.0,
+    "score": 1.85,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1007235.aspx"
+  },
+  {
+    "name": "Black Fly Vodka Mixed Berry",
+    "price_cad": 15.16,
+    "abv_percent": 7.0,
+    "volume_ml": 400.0,
+    "score": 1.85,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1025029.aspx"
+  },
+  {
+    "name": "Black Fly Rum Piña Colada",
+    "price_cad": 15.16,
+    "abv_percent": 7.0,
+    "volume_ml": 400.0,
+    "score": 1.85,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Rum/1038056.aspx"
+  },
+  {
+    "name": "Palm Bay Pineapple Citrus Vodka Punch",
+    "price_cad": 13.87,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.79,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1043411.aspx"
+  },
+  {
+    "name": "Palm Bay Mango Guava Rum Punch",
+    "price_cad": 13.87,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.79,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Rum/1043412.aspx"
+  },
+  {
+    "name": "Cutwater Vodka Mule",
+    "price_cad": 16.36,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.52,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1046052.aspx"
+  },
+  {
+    "name": "Cutwater Tequila Paloma",
+    "price_cad": 16.36,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.52,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Tequila/1043137.aspx"
+  },
+  {
+    "name": "Cutwater Rum Mojito",
+    "price_cad": 16.36,
+    "abv_percent": 5.9,
+    "volume_ml": 355.0,
+    "score": 1.28,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Rum/1042858.aspx"
+  },
+  {
+    "name": "Compass Tiki Daiquiri",
+    "price_cad": 19.81,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.25,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Rum/1046252.aspx"
+  },
+  {
+    "name": "Cottage Springs Peach Vodka Soda",
+    "price_cad": 14.35,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 1.24,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1027692.aspx"
+  },
+  {
+    "name": "Barrelling Tide Piña Colada Seltzer",
+    "price_cad": 17.82,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 1.2,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Rum/1046287.aspx"
+  },
+  {
+    "name": "Barrelling Tide Strawberry Rhubarb Lemonade",
+    "price_cad": 17.82,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 1.2,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046292.aspx"
+  },
+  {
+    "name": "SVNS Hard 7UP Original",
+    "price_cad": 21.8,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.14,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1043064.aspx"
+  },
+  {
+    "name": "SVNS Hard 7UP Lemonade",
+    "price_cad": 21.8,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.14,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1043063.aspx"
+  },
+  {
+    "name": "Coldstream Grape Vodka Soda",
+    "price_cad": 22.29,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.11,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1040863.aspx"
+  },
+  {
+    "name": "Coldstream Lime Vodka Soda",
+    "price_cad": 22.29,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.11,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1027803.aspx"
+  },
+  {
+    "name": "Coldstream Orange Vodka Soda",
+    "price_cad": 22.29,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.11,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046248.aspx"
+  },
+  {
+    "name": "Coldstream Raspberry Vodka Soda",
+    "price_cad": 22.29,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.11,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046247.aspx"
+  },
+  {
+    "name": "Coldstream Cranberry Vodka Soda",
+    "price_cad": 22.29,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 1.11,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1030810.aspx"
+  },
+  {
+    "name": "Sprizzi Limonata Variety Pack",
+    "price_cad": 18.82,
+    "abv_percent": 5.5,
+    "volume_ml": 355.0,
+    "score": 1.04,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1043622.aspx"
+  },
+  {
+    "name": "Blue Lobster Lemon Lime Vodka Soda",
+    "price_cad": 22.29,
+    "abv_percent": 6.5,
+    "volume_ml": 355.0,
+    "score": 1.04,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1027690.aspx"
+  },
+  {
+    "name": "Coldstream Peach Mango Vodka Soda",
+    "price_cad": 21.8,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.98,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1037479.aspx"
+  },
+  {
+    "name": "Nine Locks Little Pucker Original Spiked Lemonade",
+    "price_cad": 21.8,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.98,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046044.aspx"
+  },
+  {
+    "name": "Blue Lobster Dragonfruit Guava Vodka Soda",
+    "price_cad": 21.8,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.98,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1035608.aspx"
+  },
+  {
+    "name": "Blue Lobster Peach Iced Tea",
+    "price_cad": 21.8,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.98,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1043033.aspx"
+  },
+  {
+    "name": "Coldstream Strawberry Kiwi Vodka Soda",
+    "price_cad": 22.29,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.96,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1034752.aspx"
+  },
+  {
+    "name": "Blue Lobster Pear Ginger Vodka Soda",
+    "price_cad": 22.29,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.96,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1045006.aspx"
+  },
+  {
+    "name": "Blue Lobster Raspberry Lemonade",
+    "price_cad": 22.29,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.96,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1043034.aspx"
+  },
+  {
+    "name": "Coldstream Lemon Gin Soda",
+    "price_cad": 22.29,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.96,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Gin/1033100.aspx"
+  },
+  {
+    "name": "Blue Lobster Blueberry Lemon Vodka Soda",
+    "price_cad": 22.29,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.96,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1030839.aspx"
+  },
+  {
+    "name": "Cottage Springs Punched Up Mix Pack",
+    "price_cad": 26.76,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 0.93,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043546.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Light Raspberry Soda",
+    "price_cad": 15.35,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.93,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1018891.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Light Original",
+    "price_cad": 15.35,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.93,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1031358.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Light Black Cherry",
+    "price_cad": 15.35,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.93,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1018890.aspx"
+  },
+  {
+    "name": "Boatskeg Giggle Pink Lemonade Cocktail",
+    "price_cad": 22.8,
+    "abv_percent": 5.7,
+    "volume_ml": 355.0,
+    "score": 0.89,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1045025.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Berry Blast",
+    "price_cad": 20.3,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.87,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1030956.aspx"
+  },
+  {
+    "name": "White Claw Blackberry Hard Seltzer",
+    "price_cad": 20.7,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.86,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Neutral/1040579.aspx"
+  },
+  {
+    "name": "White Claw Black Cherry Hard Seltzer",
+    "price_cad": 20.7,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.86,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Neutral/1033060.aspx"
+  },
+  {
+    "name": "White Claw Peach Hard Seltzer",
+    "price_cad": 20.7,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.86,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046300.aspx"
+  },
+  {
+    "name": "Mott's Clamato Extra Spicy Caesar",
+    "price_cad": 22.29,
+    "abv_percent": 5.5,
+    "volume_ml": 341.0,
+    "score": 0.84,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1034619.aspx"
+  },
+  {
+    "name": "Mott's Clamato Original Caesar",
+    "price_cad": 22.29,
+    "abv_percent": 5.5,
+    "volume_ml": 341.0,
+    "score": 0.84,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1007296.aspx"
+  },
+  {
+    "name": "Vizzy Orange Cream Pop Variety Pack",
+    "price_cad": 21.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.81,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046265.aspx"
+  },
+  {
+    "name": "Mike's Hard Lemonade",
+    "price_cad": 21.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.81,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1017337.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Original",
+    "price_cad": 21.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.81,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1002670.aspx"
+  },
+  {
+    "name": "Colliding Tides Frosted Tangerine Twist",
+    "price_cad": 21.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.81,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046250.aspx"
+  },
+  {
+    "name": "Colliding Tides Hard Seltzer",
+    "price_cad": 21.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.81,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1040111.aspx"
+  },
+  {
+    "name": "Mike's Hard Black Cherry Lemonade",
+    "price_cad": 21.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.81,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1033199.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Creamsicle Blast",
+    "price_cad": 21.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.81,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1040709.aspx"
+  },
+  {
+    "name": "Mike's Hard Limeade",
+    "price_cad": 21.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.81,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1033214.aspx"
+  },
+  {
+    "name": "Coldstream Sour Cherry Lemonade",
+    "price_cad": 22.29,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.8,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1040683.aspx"
+  },
+  {
+    "name": "Twisted Tea Rocket Pop",
+    "price_cad": 22.29,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.8,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Malt/1046370.aspx"
+  },
+  {
+    "name": "Coldstream Peach Iced Tea",
+    "price_cad": 22.29,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.8,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1032552.aspx"
+  },
+  {
+    "name": "Simply Spiked Signature Peach",
+    "price_cad": 22.09,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.8,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1043032.aspx"
+  },
+  {
+    "name": "Sandbagger Cranfusion Vodka Seltzer",
+    "price_cad": 22.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.78,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046284.aspx"
+  },
+  {
+    "name": "Good Sunday Lemon Vodka Soda",
+    "price_cad": 20.81,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.77,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1042944.aspx"
+  },
+  {
+    "name": "No Boats On Sunday Raspberry & Watermelon Vodka Soda",
+    "price_cad": 18.8,
+    "abv_percent": 4.0,
+    "volume_ml": 355.0,
+    "score": 0.76,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1033072.aspx"
+  },
+  {
+    "name": "Mudshake Egg Nog Vodka",
+    "price_cad": 17.83,
+    "abv_percent": 5.0,
+    "volume_ml": 270.0,
+    "score": 0.76,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Cream/Vodka/1014157.aspx"
+  },
+  {
+    "name": "Aperol Spritz",
+    "price_cad": 24.76,
+    "abv_percent": 9.0,
+    "volume_ml": 200.0,
+    "score": 0.73,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Wine/1046241.aspx"
+  },
+  {
+    "name": "Smirnoff Vodka & Soda Berry Blast",
+    "price_cad": 21.8,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.73,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1038071.aspx"
+  },
+  {
+    "name": "Smirnoff Cocktail Variety Pack",
+    "price_cad": 35.65,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 0.7,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1045864.aspx"
+  },
+  {
+    "name": "Black Fly Vodka Lemonade Mixer Pack",
+    "price_cad": 37.67,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 0.66,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043624.aspx"
+  },
+  {
+    "name": "Mike's Harder Lemonade Mix Pack",
+    "price_cad": 37.67,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 0.66,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1046049.aspx"
+  },
+  {
+    "name": "Black Fly Vodka Crushed Mixer Pack",
+    "price_cad": 37.67,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 0.66,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1039069.aspx"
+  },
+  {
+    "name": "Cottage Spring Real Juice Vodka Water",
+    "price_cad": 26.76,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.66,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046276.aspx"
+  },
+  {
+    "name": "Cottage Springs Vodka Soda Mixed Pack",
+    "price_cad": 26.76,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.66,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1034131.aspx"
+  },
+  {
+    "name": "Coldstream Vodka Soda Mixer",
+    "price_cad": 38.16,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 0.65,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043236.aspx"
+  },
+  {
+    "name": "White Claw Premium Vodka Smash",
+    "price_cad": 27.74,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.64,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043440.aspx"
+  },
+  {
+    "name": "SVNS Hard 7UP Mixed Pack",
+    "price_cad": 39.68,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 0.63,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1046050.aspx"
+  },
+  {
+    "name": "Blue Lobster Zero Sugar Mixer",
+    "price_cad": 38.16,
+    "abv_percent": 6.6,
+    "volume_ml": 355.0,
+    "score": 0.61,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046214.aspx"
+  },
+  {
+    "name": "Absolut Ocean Spray Variety Pack",
+    "price_cad": 26.72,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.6,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1045781.aspx"
+  },
+  {
+    "name": "Blue Lobster Sparkling Cocktail Mix Pack",
+    "price_cad": 39.65,
+    "abv_percent": 6.6,
+    "volume_ml": 355.0,
+    "score": 0.59,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1045868.aspx"
+  },
+  {
+    "name": "Vizzy Max Exotic Twist Variety Pack",
+    "price_cad": 41.93,
+    "abv_percent": 7.0,
+    "volume_ml": 355.0,
+    "score": 0.59,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043025.aspx"
+  },
+  {
+    "name": "Captain Morgan Cocktail Collection",
+    "price_cad": 36.64,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.58,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043344.aspx"
+  },
+  {
+    "name": "Blue Lobster Vodka Pure Refreshment Mixer Pack",
+    "price_cad": 38.16,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.56,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1040380.aspx"
+  },
+  {
+    "name": "Blue Lobster Lemon Lime Vodka Soda",
+    "price_cad": 38.16,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.56,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1041168.aspx"
+  },
+  {
+    "name": "Coldstream Trailer Park Pack",
+    "price_cad": 38.16,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.56,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1046071.aspx"
+  },
+  {
+    "name": "Olé Tequila Variety Pack",
+    "price_cad": 32.99,
+    "abv_percent": 5.2,
+    "volume_ml": 355.0,
+    "score": 0.56,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1046281.aspx"
+  },
+  {
+    "name": "Blue Lobster Vodka Soda Fresh Pressed Juice Mixer Pack",
+    "price_cad": 38.16,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.56,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1040600.aspx"
+  },
+  {
+    "name": "Pabst Blue Ribbon Groovy Lemon Strong Iced Tea",
+    "price_cad": 38.16,
+    "abv_percent": 5.9,
+    "volume_ml": 355.0,
+    "score": 0.55,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1045081.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Original",
+    "price_cad": 33.17,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.54,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1038050.aspx"
+  },
+  {
+    "name": "Mike's Hard Freeze Pack",
+    "price_cad": 33.67,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.53,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1038676.aspx"
+  },
+  {
+    "name": "Mike's Hard Lemon Iced Tea",
+    "price_cad": 34.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.52,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1038204.aspx"
+  },
+  {
+    "name": "Happy Dad Hard Seltzer Grape",
+    "price_cad": 35.66,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1043217.aspx"
+  },
+  {
+    "name": "Happy Dad Variety Pack",
+    "price_cad": 35.66,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043029.aspx"
+  },
+  {
+    "name": "Truly Berry Mix Pack",
+    "price_cad": 35.66,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043544.aspx"
+  },
+  {
+    "name": "Happy Dad Hard Seltzer Fruit Punch",
+    "price_cad": 35.66,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046280.aspx"
+  },
+  {
+    "name": "Twisted Tea Original",
+    "price_cad": 35.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1015691.aspx"
+  },
+  {
+    "name": "Twisted Tea Half and Half",
+    "price_cad": 35.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1020456.aspx"
+  },
+  {
+    "name": "Twisted Tea Party Pack",
+    "price_cad": 35.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1030806.aspx"
+  },
+  {
+    "name": "Truly Punch Mix Pack",
+    "price_cad": 35.66,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.5,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1037828.aspx"
+  },
+  {
+    "name": "Mott's Clamato Original Caesar",
+    "price_cad": 38.65,
+    "abv_percent": 5.5,
+    "volume_ml": 341.0,
+    "score": 0.49,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Pre-Mixed/Vodka/1043436.aspx"
+  },
+  {
+    "name": "Mike's Hard Lemonade",
+    "price_cad": 36.19,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.49,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1043165.aspx"
+  },
+  {
+    "name": "Georgian Bay Gin Smash Mixed Pack",
+    "price_cad": 36.67,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.48,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043921.aspx"
+  },
+  {
+    "name": "Coldstream Chilly Pop",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046246.aspx"
+  },
+  {
+    "name": "Coldstream Vodka Water Mixer",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043235.aspx"
+  },
+  {
+    "name": "Colliding Tides Variety Pack",
+    "price_cad": 37.67,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1042188.aspx"
+  },
+  {
+    "name": "Coldstream All Star Lemonade Mixer",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1040754.aspx"
+  },
+  {
+    "name": "Twisted Tea Original",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Malt/1046131.aspx"
+  },
+  {
+    "name": "Nude Vodka Soda Mixer Pack",
+    "price_cad": 37.67,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1031728.aspx"
+  },
+  {
+    "name": "Coldstream Fruit Punch Iced Tea",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1043387.aspx"
+  },
+  {
+    "name": "Twisted Tea Half And Half",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Malt/1046133.aspx"
+  },
+  {
+    "name": "Coldstream Peach Iced Tea",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1039380.aspx"
+  },
+  {
+    "name": "Arizona Hard Half & Half Variety Pack",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1043663.aspx"
+  },
+  {
+    "name": "NÜTRL Vodka Soda Mixed Pack",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1034575.aspx"
+  },
+  {
+    "name": "Coldstream Iced Tea Mixer",
+    "price_cad": 38.16,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1039458.aspx"
+  },
+  {
+    "name": "Mike's Hard Lemonade Mix Pack",
+    "price_cad": 37.67,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.47,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1033628.aspx"
+  },
+  {
+    "name": "Dillon's Vodka Cocktail Variety Pack",
+    "price_cad": 38.44,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.46,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1044780.aspx"
+  },
+  {
+    "name": "Smirnoff Vodka & Soda Mixed Pack",
+    "price_cad": 34.66,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.46,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1042888.aspx"
+  },
+  {
+    "name": "Wyatt Rose Ranch Water Mixer Pack",
+    "price_cad": 38.66,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.46,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Tequila/1046056.aspx"
+  },
+  {
+    "name": "Dillon's Gin Cocktails Variety Pack",
+    "price_cad": 38.44,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.46,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1039987.aspx"
+  },
+  {
+    "name": "White Claw Hard Seltzer Variety Pack",
+    "price_cad": 39.15,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.45,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1033186.aspx"
+  },
+  {
+    "name": "Simply Spiked Lemonade Variety Pack",
+    "price_cad": 39.65,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.45,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1040897.aspx"
+  },
+  {
+    "name": "Simply Spiked Peach Variety Pack",
+    "price_cad": 39.65,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.45,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043026.aspx"
+  },
+  {
+    "name": "Simply Spiked Limeade Variety Pack",
+    "price_cad": 39.65,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.45,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1045761.aspx"
+  },
+  {
+    "name": "Sun Cruiser Variety Pack",
+    "price_cad": 35.66,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.45,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1046984.aspx"
+  },
+  {
+    "name": "White Claw Variety Pack Flavour Collection No.2",
+    "price_cad": 39.15,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.45,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1036685.aspx"
+  },
+  {
+    "name": "Vizzy Hard Seltzer Mimosa Variety Pack",
+    "price_cad": 40.44,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.44,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1040295.aspx"
+  },
+  {
+    "name": "Vizzy Cream Pop Hard Seltzer Variety Pack",
+    "price_cad": 40.44,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.44,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1045746.aspx"
+  },
+  {
+    "name": "Smirnoff Ice Life Of The Party Pack",
+    "price_cad": 37.17,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.43,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1035904.aspx"
+  },
+  {
+    "name": "Nine Locks Vodka Soda Mixer",
+    "price_cad": 37.67,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.42,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043240.aspx"
+  },
+  {
+    "name": "Coors Seltzer Slushie Flavours Pack",
+    "price_cad": 39.45,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.4,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1040416.aspx"
+  },
+  {
+    "name": "Coors Seltzer Splash Pack",
+    "price_cad": 39.45,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.4,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1038077.aspx"
+  },
+  {
+    "name": "Coors Seltzer Mixables Variety Pack",
+    "price_cad": 39.45,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.4,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1045745.aspx"
+  },
+  {
+    "name": "Real Vodka Water Tropical Mixer Pack",
+    "price_cad": 39.65,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.4,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1046282.aspx"
+  },
+  {
+    "name": "Coors Seltzer Island Breeze Variety Pack",
+    "price_cad": 39.45,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.4,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043247.aspx"
+  },
+  {
+    "name": "Blue Lobster Zero Sugar Mixer",
+    "price_cad": 71.38,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.3,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Sodas/Vodka/1047140.aspx"
+  },
+  {
+    "name": "Twisted Tea Original",
+    "price_cad": 71.38,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.25,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1035923.aspx"
+  },
+  {
+    "name": "Twisted Tea Original",
+    "price_cad": 71.38,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.25,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Malt/1046132.aspx"
+  },
+  {
+    "name": "Coldstream Peach Iced Tea",
+    "price_cad": 71.38,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.25,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Teas/Vodka/1043237.aspx"
+  },
+  {
+    "name": "Coors Seltzer Slushie Flavours Pack",
+    "price_cad": 69.4,
+    "abv_percent": 4.5,
+    "volume_ml": 355.0,
+    "score": 0.23,
+    "category": "Coolers",
+    "url": "https://www.mynslc.com/en/products/Coolers/Variety-Pack/1043390.aspx"
+  }
+]

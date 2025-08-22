@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Lake City Darkside Dry Cider",
+    "price_cad": 6.22,
+    "abv_percent": 7.5,
+    "volume_ml": 473.0,
+    "score": 5.7,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1039702.aspx"
+  },
+  {
+    "name": "Saltbox Feels Like Home Cider",
+    "price_cad": 5.69,
+    "abv_percent": 6.8,
+    "volume_ml": 473.0,
+    "score": 5.65,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1045000.aspx"
+  },
+  {
+    "name": "Saltbox Blossom Apricot Cider",
+    "price_cad": 5.69,
+    "abv_percent": 6.8,
+    "volume_ml": 473.0,
+    "score": 5.65,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1046394.aspx"
+  },
+  {
+    "name": "Annapolis Cider Earl Blue",
+    "price_cad": 5.94,
+    "abv_percent": 7.1,
+    "volume_ml": 473.0,
+    "score": 5.65,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1046340.aspx"
+  },
+  {
+    "name": "Bulwark Winter Cider",
+    "price_cad": 5.94,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 5.57,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1042407.aspx"
+  },
+  {
+    "name": "Maritime Express Snowed In Spiced Cider",
+    "price_cad": 6.89,
+    "abv_percent": 8.0,
+    "volume_ml": 473.0,
+    "score": 5.49,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1045253.aspx"
+  },
+  {
+    "name": "Island Folk House Rebel Rosé Cider",
+    "price_cad": 6.2,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 5.34,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1036693.aspx"
+  },
+  {
+    "name": "No Boats On Sunday Cranberry Rosé Cider",
+    "price_cad": 5.74,
+    "abv_percent": 5.8,
+    "volume_ml": 500.0,
+    "score": 5.05,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1027694.aspx"
+  },
+  {
+    "name": "No Boats On Sunday Cider",
+    "price_cad": 5.74,
+    "abv_percent": 5.8,
+    "volume_ml": 500.0,
+    "score": 5.05,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1022865.aspx"
+  },
+  {
+    "name": "Maritime Express Lively Airs Strawberry Basil Cider",
+    "price_cad": 6.2,
+    "abv_percent": 6.5,
+    "volume_ml": 473.0,
+    "score": 4.96,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1046068.aspx"
+  },
+  {
+    "name": "Bulwark Bartlett Pear Craft Cider",
+    "price_cad": 5.54,
+    "abv_percent": 5.8,
+    "volume_ml": 473.0,
+    "score": 4.95,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1043261.aspx"
+  },
+  {
+    "name": "Bulwark Blush Rosé Cider",
+    "price_cad": 5.54,
+    "abv_percent": 5.8,
+    "volume_ml": 473.0,
+    "score": 4.95,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1046393.aspx"
+  },
+  {
+    "name": "Bulwark Original Craft Cider",
+    "price_cad": 5.54,
+    "abv_percent": 5.8,
+    "volume_ml": 473.0,
+    "score": 4.95,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1037368.aspx"
+  },
+  {
+    "name": "Paddy Fitz Honeyed Cider",
+    "price_cad": 5.69,
+    "abv_percent": 5.8,
+    "volume_ml": 473.0,
+    "score": 4.82,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1045196.aspx"
+  },
+  {
+    "name": "Strongbow Dry Cider",
+    "price_cad": 5.53,
+    "abv_percent": 5.3,
+    "volume_ml": 500.0,
+    "score": 4.79,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1001130.aspx"
+  },
+  {
+    "name": "Lake City Peach Cider",
+    "price_cad": 5.94,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1043262.aspx"
+  },
+  {
+    "name": "Chain Yard Foundation Cider",
+    "price_cad": 5.94,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1025051.aspx"
+  },
+  {
+    "name": "Lake City Pride Rosé Cider",
+    "price_cad": 5.94,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 4.78,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1031241.aspx"
+  },
+  {
+    "name": "Island Folk Good Company Cider",
+    "price_cad": 5.98,
+    "abv_percent": 6.0,
+    "volume_ml": 473.0,
+    "score": 4.75,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1033161.aspx"
+  },
+  {
+    "name": "Okanagan Harvest Pear Cider",
+    "price_cad": 5.15,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1033235.aspx"
+  },
+  {
+    "name": "Growers Triple Orchard Berry Cider",
+    "price_cad": 5.15,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1038095.aspx"
+  },
+  {
+    "name": "Growers Honeycrisp Apple Cider",
+    "price_cad": 5.15,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1023908.aspx"
+  },
+  {
+    "name": "Okanagan Crisp Apple Cider",
+    "price_cad": 5.15,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.59,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1046346.aspx"
+  },
+  {
+    "name": "Chain Yard Bright Grapefruit Cider",
+    "price_cad": 5.94,
+    "abv_percent": 5.5,
+    "volume_ml": 473.0,
+    "score": 4.38,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1043949.aspx"
+  },
+  {
+    "name": "Bulwark Wild Blackberry Cider",
+    "price_cad": 5.54,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.27,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1031810.aspx"
+  },
+  {
+    "name": "Chain Yard Bee You Pride Cyser Rosé",
+    "price_cad": 6.2,
+    "abv_percent": 5.5,
+    "volume_ml": 473.0,
+    "score": 4.2,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Wine-Infused/1041403.aspx"
+  },
+  {
+    "name": "East Coast Cider Company Cherry Cider",
+    "price_cad": 5.74,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 4.12,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1036991.aspx"
+  },
+  {
+    "name": "Somersby Red Rhubarb Cider",
+    "price_cad": 5.44,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 3.91,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1033466.aspx"
+  },
+  {
+    "name": "Somersby Blackberry Cider",
+    "price_cad": 5.53,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 3.85,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1033106.aspx"
+  },
+  {
+    "name": "Somersby Apple Cider",
+    "price_cad": 5.53,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 3.85,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1033107.aspx"
+  },
+  {
+    "name": "Island Folk Lemon Squeezy Cider",
+    "price_cad": 6.2,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 3.81,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1046381.aspx"
+  },
+  {
+    "name": "Chain Yard Frost Bite Cider",
+    "price_cad": 16.83,
+    "abv_percent": 8.0,
+    "volume_ml": 750.0,
+    "score": 3.57,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1028312.aspx"
+  },
+  {
+    "name": "Sourwood Wabamo Session Cider",
+    "price_cad": 5.44,
+    "abv_percent": 4.0,
+    "volume_ml": 473.0,
+    "score": 3.48,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1043950.aspx"
+  },
+  {
+    "name": "Lake City Spice Up Your Life Cider",
+    "price_cad": 15.85,
+    "abv_percent": 6.8,
+    "volume_ml": 750.0,
+    "score": 3.22,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1031967.aspx"
+  },
+  {
+    "name": "Beausoleil Frontenac & Blue",
+    "price_cad": 16.84,
+    "abv_percent": 6.9,
+    "volume_ml": 750.0,
+    "score": 3.07,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Wine-Infused/1046374.aspx"
+  },
+  {
+    "name": "Tiny Bubs Traditional Method Cider",
+    "price_cad": 19.81,
+    "abv_percent": 8.0,
+    "volume_ml": 750.0,
+    "score": 3.03,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1046396.aspx"
+  },
+  {
+    "name": "Bulwark SPCA Rosé Christmas Limited Edition",
+    "price_cad": 22.74,
+    "abv_percent": 9.0,
+    "volume_ml": 750.0,
+    "score": 2.97,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1030041.aspx"
+  },
+  {
+    "name": "Beausoleil Bellini",
+    "price_cad": 9.9,
+    "abv_percent": 6.9,
+    "volume_ml": 375.0,
+    "score": 2.61,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Wine-Infused/1045139.aspx"
+  },
+  {
+    "name": "No Boats Lemonade Cider",
+    "price_cad": 25.27,
+    "abv_percent": 7.0,
+    "volume_ml": 473.0,
+    "score": 1.31,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1046392.aspx"
+  },
+  {
+    "name": "Annapolis Cider Crisp and Dry",
+    "price_cad": 21.3,
+    "abv_percent": 7.7,
+    "volume_ml": 355.0,
+    "score": 1.28,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1039664.aspx"
+  },
+  {
+    "name": "Lake City Crisp Apple Cider",
+    "price_cad": 21.21,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 1.0,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1035561.aspx"
+  },
+  {
+    "name": "Annapolis Cider Company The Classic Cider 6 Can Pack",
+    "price_cad": 21.3,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 1.0,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1036500.aspx"
+  },
+  {
+    "name": "Bulwark Original Craft Cider",
+    "price_cad": 21.3,
+    "abv_percent": 5.8,
+    "volume_ml": 355.0,
+    "score": 0.97,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1039755.aspx"
+  },
+  {
+    "name": "No Boats On Sunday Original Cider",
+    "price_cad": 25.27,
+    "abv_percent": 5.0,
+    "volume_ml": 473.0,
+    "score": 0.94,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1035866.aspx"
+  },
+  {
+    "name": "Okanagan Orchard Peach Cider",
+    "price_cad": 19.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.9,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Flavoured/1030792.aspx"
+  },
+  {
+    "name": "Okanagan Crisp Apple Cider",
+    "price_cad": 19.8,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.9,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1017021.aspx"
+  },
+  {
+    "name": "Strongbow Dry Cider",
+    "price_cad": 36.68,
+    "abv_percent": 5.3,
+    "volume_ml": 440.0,
+    "score": 0.64,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1009364.aspx"
+  },
+  {
+    "name": "Annapolis Cider Company Taste the Valley Mixer Pack",
+    "price_cad": 35.46,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.6,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Variety-Pack/1040865.aspx"
+  },
+  {
+    "name": "Bulwark Craft Cider Variety Pack",
+    "price_cad": 34.47,
+    "abv_percent": 5.8,
+    "volume_ml": 355.0,
+    "score": 0.6,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Variety-Pack/1040427.aspx"
+  },
+  {
+    "name": "Lake City Cider Variety Pack",
+    "price_cad": 36.19,
+    "abv_percent": 6.0,
+    "volume_ml": 355.0,
+    "score": 0.59,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Variety-Pack/1038078.aspx"
+  },
+  {
+    "name": "Somersby Cider Mixer Pack",
+    "price_cad": 36.66,
+    "abv_percent": 4.5,
+    "volume_ml": 473.0,
+    "score": 0.58,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Variety-Pack/1040782.aspx"
+  },
+  {
+    "name": "No Boats On Sunday Cider Variety Pack",
+    "price_cad": 30.69,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.58,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Variety-Pack/1040752.aspx"
+  },
+  {
+    "name": "Okanagan Cider Variety Pack",
+    "price_cad": 32.67,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.54,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Variety-Pack/1033234.aspx"
+  },
+  {
+    "name": "Okanagan Crisp Apple Cider",
+    "price_cad": 36.67,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.48,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Traditional/1043246.aspx"
+  },
+  {
+    "name": "No Boats On Sunday Cider Variety Pack",
+    "price_cad": 69.4,
+    "abv_percent": 5.0,
+    "volume_ml": 355.0,
+    "score": 0.26,
+    "category": "Cider",
+    "url": "https://www.mynslc.com/en/products/Cider/Variety-Pack/1041825.aspx"
+  }
+]
