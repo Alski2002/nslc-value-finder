@@ -84,8 +84,10 @@ async def health():
 
 
 # ---------- Models ----------
+from pydantic import Field
+
 class ScrapeRequest(BaseModel):
-    categories: List[str] = ["Spirits"]
+    categories: List[str] = Field(default_factory=lambda: ["Spirits"])
     concurrency: int = 5
 
 
@@ -110,8 +112,9 @@ def _read_cache(path: Path) -> Optional[List[Dict[str, Any]]]:
 def _write_cache(path: Path, items: List[Dict[str, Any]]) -> None:
     try:
         path.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"Error writing cache to {path}: {e}", file=sys.stderr)
+        raise
 
 
 # ---------- CSV -> items ----------
@@ -152,49 +155,47 @@ def _scrape_via_subprocess(cats: List[str], conc: int) -> List[Dict[str, Any]]:
 
 
 def _scrape_via_subprocess_stream(cats, conc, on_line):
-    import os, sys, shlex, subprocess, json  # ensure these imports exist at top of file
-    # Build the exact command your child uses (adjust if your path/module differs)
-    cmd = [
-        sys.executable, "-u", "nslc_spirits.py",
-        "--categories", *cats,
-        "--concurrency", str(conc),
-        "--headless",
-    ]
+    import shlex
 
-    on_line(f"log launching: {' '.join(shlex.quote(x) for x in cmd)}")
+    # Use a temporary directory for output CSV
+    with tempfile.TemporaryDirectory() as td:
+        out_csv = Path(td) / "nslc_value.csv"
+        cmd = [
+            sys.executable, "-u", "nslc_spirits.py",
+            "--categories", *cats,
+            "--out", str(out_csv),
+            "--concurrency", str(conc),
+            "--headless",
+        ]
 
-    # Unbuffered text stream, stderr merged into stdout
-    proc = subprocess.Popen(
-        cmd,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.STDOUT,
-        text=True,                 # decoded strings instead of bytes
-        encoding="utf-8",
-        errors="replace",
-        bufsize=1,                 # line-buffered
-        cwd="/opt/apps/nslc-value-finder",  # ensure working dir
-        env=dict(os.environ, PYTHONUNBUFFERED="1"),
-    )
+        on_line(f"log launching: {' '.join(shlex.quote(x) for x in cmd)}")
 
-    # Stream child output to the client
-    for line in proc.stdout:
-        line = line.rstrip("\r\n")
-        # forward everything; your frontend can display lines starting with "log "
-        on_line(f"log {line}")
+        proc = subprocess.Popen(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+            bufsize=1,
+            cwd=str(BASE_DIR),
+            env=dict(os.environ, PYTHONUNBUFFERED="1"),
+        )
 
-        # (optional) if your scraper prints JSON lines you want to collect:
-        # try:
-        #     obj = json.loads(line)
-        #     on_line(f"data {json.dumps(obj)}")
-        # except Exception:
-        #     pass
+        # Stream child output to the client
+        for line in proc.stdout:
+            line = line.rstrip("\r\n")
+            on_line(f"log {line}")
 
-    ret = proc.wait()
-    if ret != 0:
-        raise RuntimeError(f"Scraper exit code {ret}")
+        ret = proc.wait()
+        if ret != 0:
+            raise RuntimeError(f"Scraper exit code {ret}")
 
-    # return whatever your caller expects (if anything)
-    return []
+        # Collect and return items from CSV
+        items = []
+        if out_csv.exists():
+            items = _items_from_csv(out_csv)
+        return items
 
 # ---------- SSE helpers ----------
 def _sse(event: str, payload: Dict[str, Any]) -> str:
@@ -221,10 +222,23 @@ async def scrape(req: ScrapeRequest):
         raise
     except Exception as e:
         raise HTTPException(500, detail=f"Server error: {e}")
-
+from fastapi import Query
 
 @app.get("/api/scrape/stream")
-async def scrape_stream(categories: str = "Spirits", concurrency: int = 5):
+async def scrape_stream(
+    categories: str = Query(
+        "Spirits",
+        description="Comma-separated list of categories to scrape. Supported: Spirits, Wine, Beer, Cider, Coolers.",
+        example="Spirits,Wine"
+    ),
+    concurrency: int = Query(
+        5,
+        description=f"Number of concurrent requests (max {SAFE_MAX_CONCURRENCY}).",
+        ge=1,
+        le=SAFE_MAX_CONCURRENCY,
+        example=5
+    ),
+):
     """
     Streams progress via SSE by parsing your scraper's stdout.
     Emits:
@@ -241,7 +255,7 @@ async def scrape_stream(categories: str = "Spirits", concurrency: int = 5):
         loop = asyncio.get_running_loop()
         q: asyncio.Queue[str] = asyncio.Queue()
 
-        def on_line(line: str) -> None:
+        def on_line(line: str):
             loop.call_soon_threadsafe(q.put_nowait, line)
 
         done_fut: asyncio.Future = loop.create_future()
@@ -296,7 +310,7 @@ async def scrape_stream(categories: str = "Spirits", concurrency: int = 5):
 
             # If nothing new, send a small heartbeat to keep the bar alive
             if not emitted:
-                yield _sse("progress", {"pct": 2, "message": "Working…"})
+                yield _sse("status", {"message": "Working…"})
                 await asyncio.sleep(0.5)
 
         # Finished: either success or error
