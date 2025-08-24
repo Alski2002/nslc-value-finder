@@ -27,7 +27,7 @@ def category_url(cat: str) -> str:
     return f"https://www.mynslc.com/products/{CATEGORY_SLUG[cat]}"
 
 PRODUCT_HREF_RE = re.compile(r"/(?:en/)?products/.*?\.aspx$", re.IGNORECASE)
-DEBUG_SHOTS = True  # set True to write screenshots to ./debug_shots
+DEBUG_SHOTS = False # set True to write screenshots to ./debug_shots
 
 # ---------- Small helpers ----------
 
@@ -202,8 +202,16 @@ async def scrape_product(context: BrowserContext, url: str, retries: int = 1) ->
     try:
         for attempt in range(retries + 1):
             try:
-                await page.goto(url, timeout=60000, wait_until="domcontentloaded")
-                await page.wait_for_load_state("networkidle")
+                try:
+                    await page.goto(url, timeout=180000, wait_until="domcontentloaded")
+                except PlaywrightTimeoutError:
+                    # warm up on homepage (some CDNs do a first-visit challenge)
+                    try:
+                        await page.goto("https://www.mynslc.com/", timeout=90000, wait_until="domcontentloaded")
+                        await page.wait_for_timeout(6000)
+                    except:
+                        pass
+                    await page.goto(url, timeout=180000, wait_until="domcontentloaded")
             except PlaywrightTimeoutError:
                 if attempt < retries:
                     continue
@@ -447,14 +455,33 @@ async def run(all_spirits: bool,
     from playwright.async_api import async_playwright
 
     async with async_playwright() as p:
-        # launch browser
-        browser = await p.chromium.launch(headless=headless)
+        # launch browser with flags that work on small VPSes
+        browser = await p.chromium.launch(
+            headless=headless,
+            args=["--no-sandbox", "--disable-dev-shm-usage", "--no-zygote", "--disable-gpu", "--disable-blink-features=AutomationControlled"]
+        )
         context = await browser.new_context(
             user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                         "AppleWebKit/537.36 (KHTML, like Gecko) "
                         "Chrome/123.0.0.0 Safari/537.36"),
             viewport={"width": 1400, "height": 1000},
+            locale="en-CA",
+            timezone_id="America/Halifax",
+            # If your Playwright version supports it:
+            # service_workers="block",
         )
+        # Slightly more “human-like” headers and stealth hints
+        await context.set_extra_http_headers({
+            "Accept-Language": "en-CA,en;q=0.9",
+            "DNT": "1",
+            "Upgrade-Insecure-Requests": "1",
+        })
+        await context.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+            window.chrome = { runtime: {} };
+            Object.defineProperty(navigator, 'plugins', { get: () => [1,2,3,4,5] });
+            Object.defineProperty(navigator, 'languages', { get: () => ['en-CA','en'] });
+        """)
 
         # -------- load URLs --------
         if all_spirits:

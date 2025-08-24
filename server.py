@@ -151,78 +151,50 @@ def _scrape_via_subprocess(cats: List[str], conc: int) -> List[Dict[str, Any]]:
         return _items_from_csv(out_csv)
 
 
-def _scrape_via_subprocess_stream(
-    cats: List[str],
-    conc: int,
-    on_line: callable,
-) -> List[Dict[str, Any]]:
-    """
-    Streaming run: execute script, forward stdout lines via on_line(),
-    then read CSV and return items.
-    """
-    if not NSLC_SCRIPT.exists():
-        raise RuntimeError("nslc_spirits.py not found next to server.py")
+def _scrape_via_subprocess_stream(cats, conc, on_line):
+    import os, sys, shlex, subprocess, json  # ensure these imports exist at top of file
+    # Build the exact command your child uses (adjust if your path/module differs)
+    cmd = [
+        sys.executable, "-u", "nslc_spirits.py",
+        "--categories", *cats,
+        "--concurrency", str(conc),
+        "--headless",
+    ]
 
-    t0 = time.time()
-    with tempfile.TemporaryDirectory() as td:
-        out_csv = Path(td) / "nslc_value.csv"
-        cmd = [
-            sys.executable, str(NSLC_SCRIPT),
-            "--categories", *cats,
-            "--out", str(out_csv),
-            "--concurrency", str(max(1, min(conc, SAFE_MAX_CONCURRENCY))),
-            "--headless",
-        ]
-        proc = subprocess.Popen(
-            cmd,
-            cwd=str(BASE_DIR),
-            stdout=subprocess.PIPE,
-            stderr=subprocess.STDOUT,
-            text=True,
-            bufsize=0,  # unbuffered so we can read char-by-char
-        )
-        assert proc.stdout is not None
+    on_line(f"log launching: {' '.join(shlex.quote(x) for x in cmd)}")
 
-        buf = ""
-        while True:
-            ch = proc.stdout.read(1)  # read single chars so '\r' progress updates are seen
-            if ch == "" and proc.poll() is not None:
-                break
-            if not ch:
-                # keep UI alive and enforce timeout
-                if time.time() - t0 > SCRAPE_TIMEOUT_SECONDS:
-                    proc.kill()
-                    raise RuntimeError("Scrape timed out")
-                time.sleep(0.05)
-                continue
+    # Unbuffered text stream, stderr merged into stdout
+    proc = subprocess.Popen(
+        cmd,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+        text=True,                 # decoded strings instead of bytes
+        encoding="utf-8",
+        errors="replace",
+        bufsize=1,                 # line-buffered
+        cwd="/opt/apps/nslc-value-finder",  # ensure working dir
+        env=dict(os.environ, PYTHONUNBUFFERED="1"),
+    )
 
-            if ch in ("\r", "\n"):
-                line = buf.strip()
-                if line:
-                    try:
-                        on_line(line)
-                    except Exception:
-                        pass
-                buf = ""
-            else:
-                buf += ch
+    # Stream child output to the client
+    for line in proc.stdout:
+        line = line.rstrip("\r\n")
+        # forward everything; your frontend can display lines starting with "log "
+        on_line(f"log {line}")
 
-            if time.time() - t0 > SCRAPE_TIMEOUT_SECONDS:
-                proc.kill()
-                raise RuntimeError("Scrape timed out")
+        # (optional) if your scraper prints JSON lines you want to collect:
+        # try:
+        #     obj = json.loads(line)
+        #     on_line(f"data {json.dumps(obj)}")
+        # except Exception:
+        #     pass
 
-        if buf.strip():
-            try:
-                on_line(buf.strip())
-            except Exception:
-                pass
+    ret = proc.wait()
+    if ret != 0:
+        raise RuntimeError(f"Scraper exit code {ret}")
 
-        ret = proc.wait()
-        if ret != 0:
-            raise RuntimeError(f"Scraper exit code {ret}")
-
-        return _items_from_csv(out_csv)
-
+    # return whatever your caller expects (if anything)
+    return []
 
 # ---------- SSE helpers ----------
 def _sse(event: str, payload: Dict[str, Any]) -> str:
